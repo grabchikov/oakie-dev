@@ -2,8 +2,14 @@
 function formatMarketCap(cap) {
   if (cap == null || isNaN(cap)) return "—";
   const num = Number(cap);
-  // Always show in billions with 'B', as in CompaniesList
-  return `$${(num / 1e9).toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 })}B`;
+  
+  if (num >= 1e9) {
+    // Show in billions if 1 billion or more
+    return `$${(num / 1e9).toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 })}B`;
+  } else {
+    // Show in millions if less than 1 billion
+    return `$${(num / 1e6).toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 })}M`;
+  }
 }
 import Breadcrumb from "react-bootstrap/Breadcrumb";
 import { Link } from "react-router-dom";
@@ -174,7 +180,7 @@ export default function CompanyAnalysis() {
 
       {/* PriceChart and InfoCards side by side on desktop, stacked on mobile */}
       <div className="row">
-        <div className="col-lg-10 col-12 mb-3 mb-lg-0">
+        <div className="col-lg-9 col-12 mb-3 mb-lg-0">
           {/* Header */}
           <h1 className={isMobile ? "h3 mb-0" : "display-6 mb-0"}>
             {formatCompanyName(companyData.Company)}
@@ -210,7 +216,7 @@ export default function CompanyAnalysis() {
             dailyStockPrice={dailyStockPrice}
           />
         </div>
-        <div className="col-lg-2 col-12 pt-lg-3">
+        <div className="col-lg-3 col-12 pt-lg-3">
           <div>
             <InfoCards
               stockPrice={lastStockPrice}
