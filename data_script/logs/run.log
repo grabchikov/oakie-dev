@@ -29908,3 +29908,512 @@
 2026-07-02 01:11:08,275 - INFO - Script completed in 134.69 seconds.
 2026-07-02 01:11:08,275 - INFO - API batches processed: 20
 2026-07-02 01:11:08,275 - INFO - Company JSON files created: 390
+2026-07-02 07:40:19,815 - INFO - Script started.
+2026-07-02 07:40:19,816 - INFO - Deleted old details file: public/companies-data/details/QDEL.json
+2026-07-02 07:40:19,816 - INFO - Deleted old details file: public/companies-data/details/HLMN.json
+2026-07-02 07:40:19,816 - INFO - Deleted old details file: public/companies-data/details/BTU.json
+2026-07-02 07:40:19,816 - INFO - Deleted old details file: public/companies-data/details/LNKB.json
+2026-07-02 07:40:19,816 - INFO - Deleted old details file: public/companies-data/details/NHPAP.json
+2026-07-02 07:40:19,816 - INFO - Deleted old details file: public/companies-data/details/KLIC.json
+2026-07-02 07:40:19,816 - INFO - Deleted old details file: public/companies-data/details/ATR.json
+2026-07-02 07:40:19,816 - INFO - Deleted old details file: public/companies-data/details/SND.json
+2026-07-02 07:40:19,816 - INFO - Deleted old details file: public/companies-data/details/FVRR.json
+2026-07-02 07:40:19,816 - INFO - Deleted old details file: public/companies-data/details/HPK.json
+2026-07-02 07:40:19,817 - INFO - Deleted old details file: public/companies-data/details/HOG.json
+2026-07-02 07:40:19,817 - INFO - Deleted old details file: public/companies-data/details/NKSH.json
+2026-07-02 07:40:19,817 - INFO - Deleted old details file: public/companies-data/details/PDEX.json
+2026-07-02 07:40:19,817 - INFO - Deleted old details file: public/companies-data/details/LUMN.json
+2026-07-02 07:40:19,817 - INFO - Deleted old details file: public/companies-data/details/JRSH.json
+2026-07-02 07:40:19,817 - INFO - Deleted old details file: public/companies-data/details/CASH.json
+2026-07-02 07:40:19,817 - INFO - Deleted old details file: public/companies-data/details/BRT.json
+2026-07-02 07:40:19,817 - INFO - Deleted old details file: public/companies-data/details/GAP.json
+2026-07-02 07:40:19,817 - INFO - Deleted old details file: public/companies-data/details/MOS.json
+2026-07-02 07:40:19,817 - INFO - Deleted old details file: public/companies-data/details/AMED.json
+2026-07-02 07:40:19,817 - INFO - Deleted old details file: public/companies-data/details/NBBK.json
+2026-07-02 07:40:19,817 - INFO - Deleted old details file: public/companies-data/details/ADV.json
+2026-07-02 07:40:19,817 - INFO - Deleted old details file: public/companies-data/details/AHH.json
+2026-07-02 07:40:19,817 - INFO - Deleted old details file: public/companies-data/details/EE.json
+2026-07-02 07:40:19,818 - INFO - Deleted old details file: public/companies-data/details/UPWK.json
+2026-07-02 07:40:19,818 - INFO - Deleted old details file: public/companies-data/details/ABBV.json
+2026-07-02 07:40:19,818 - INFO - Deleted old details file: public/companies-data/details/TH.json
+2026-07-02 07:40:19,818 - INFO - Deleted old details file: public/companies-data/details/FFWM.json
+2026-07-02 07:40:19,818 - INFO - Deleted old details file: public/companies-data/details/JLL.json
+2026-07-02 07:40:19,818 - INFO - Deleted old details file: public/companies-data/details/EAT.json
+2026-07-02 07:40:19,818 - INFO - Deleted old details file: public/companies-data/details/ZIMV.json
+2026-07-02 07:40:19,818 - INFO - Deleted old details file: public/companies-data/details/FISI.json
+2026-07-02 07:40:19,818 - INFO - Deleted old details file: public/companies-data/details/FCN.json
+2026-07-02 07:40:19,818 - INFO - Deleted old details file: public/companies-data/details/RRBI.json
+2026-07-02 07:40:19,818 - INFO - Deleted old details file: public/companies-data/details/CMPR.json
+2026-07-02 07:40:19,818 - INFO - Deleted old details file: public/companies-data/details/ORRF.json
+2026-07-02 07:40:19,818 - INFO - Deleted old details file: public/companies-data/details/TER.json
+2026-07-02 07:40:19,818 - INFO - Deleted old details file: public/companies-data/details/M.json
+2026-07-02 07:40:19,818 - INFO - Deleted old details file: public/companies-data/details/XIN.json
+2026-07-02 07:40:19,819 - INFO - Deleted old details file: public/companies-data/details/TSEM.json
+2026-07-02 07:40:19,819 - INFO - Deleted old details file: public/companies-data/details/CFFN.json
+2026-07-02 07:40:19,819 - INFO - Deleted old details file: public/companies-data/details/INTU.json
+2026-07-02 07:40:19,819 - INFO - Deleted old details file: public/companies-data/details/AIRS.json
+2026-07-02 07:40:19,819 - INFO - Deleted old details file: public/companies-data/details/EPRT.json
+2026-07-02 07:40:19,819 - INFO - Deleted old details file: public/companies-data/details/LMB.json
+2026-07-02 07:40:19,819 - INFO - Deleted old details file: public/companies-data/details/NOG.json
+2026-07-02 07:40:19,819 - INFO - Deleted old details file: public/companies-data/details/VITL.json
+2026-07-02 07:40:19,819 - INFO - Deleted old details file: public/companies-data/details/AXL.json
+2026-07-02 07:40:19,819 - INFO - Deleted old details file: public/companies-data/details/CCSI.json
+2026-07-02 07:40:19,819 - INFO - Deleted old details file: public/companies-data/details/ASGN.json
+2026-07-02 07:40:19,819 - INFO - Deleted old details file: public/companies-data/details/RXT.json
+2026-07-02 07:40:19,819 - INFO - Deleted old details file: public/companies-data/details/ASRT.json
+2026-07-02 07:40:19,819 - INFO - Deleted old details file: public/companies-data/details/EVCM.json
+2026-07-02 07:40:19,819 - INFO - Deleted old details file: public/companies-data/details/ALLY.json
+2026-07-02 07:40:19,819 - INFO - Deleted old details file: public/companies-data/details/GNL.json
+2026-07-02 07:40:19,820 - INFO - Deleted old details file: public/companies-data/details/BKNG.json
+2026-07-02 07:40:19,820 - INFO - Deleted old details file: public/companies-data/details/XPEL.json
+2026-07-02 07:40:19,820 - INFO - Deleted old details file: public/companies-data/details/AMWD.json
+2026-07-02 07:40:19,820 - INFO - Deleted old details file: public/companies-data/details/APOG.json
+2026-07-02 07:40:19,820 - INFO - Deleted old details file: public/companies-data/details/MRVL.json
+2026-07-02 07:40:19,820 - INFO - Deleted old details file: public/companies-data/details/MRCY.json
+2026-07-02 07:40:19,820 - INFO - Deleted old details file: public/companies-data/details/DLTR.json
+2026-07-02 07:40:19,820 - INFO - Deleted old details file: public/companies-data/details/BLCO.json
+2026-07-02 07:40:19,820 - INFO - Deleted old details file: public/companies-data/details/CHH.json
+2026-07-02 07:40:19,820 - INFO - Deleted old details file: public/companies-data/details/WEN.json
+2026-07-02 07:40:19,820 - INFO - Deleted old details file: public/companies-data/details/CURV.json
+2026-07-02 07:40:19,820 - INFO - Deleted old details file: public/companies-data/details/AVTR.json
+2026-07-02 07:40:19,820 - INFO - Deleted old details file: public/companies-data/details/KMI.json
+2026-07-02 07:40:19,820 - INFO - Deleted old details file: public/companies-data/details/TTMI.json
+2026-07-02 07:40:19,820 - INFO - Deleted old details file: public/companies-data/details/CI.json
+2026-07-02 07:40:19,820 - INFO - Deleted old details file: public/companies-data/details/UMBF.json
+2026-07-02 07:40:19,821 - INFO - Deleted old details file: public/companies-data/details/PD.json
+2026-07-02 07:40:19,821 - INFO - Deleted old details file: public/companies-data/details/IEX.json
+2026-07-02 07:40:19,821 - INFO - Deleted old details file: public/companies-data/details/VNDA.json
+2026-07-02 07:40:19,821 - INFO - Deleted old details file: public/companies-data/details/ACU.json
+2026-07-02 07:40:19,821 - INFO - Deleted old details file: public/companies-data/details/OVV.json
+2026-07-02 07:40:19,821 - INFO - Deleted old details file: public/companies-data/details/ARRY.json
+2026-07-02 07:40:19,821 - INFO - Deleted old details file: public/companies-data/details/NTB.json
+2026-07-02 07:40:19,821 - INFO - Deleted old details file: public/companies-data/details/BATL.json
+2026-07-02 07:40:19,821 - INFO - Deleted old details file: public/companies-data/details/GILT.json
+2026-07-02 07:40:19,821 - INFO - Deleted old details file: public/companies-data/details/FLO.json
+2026-07-02 07:40:19,821 - INFO - Deleted old details file: public/companies-data/details/TRGP.json
+2026-07-02 07:40:19,821 - INFO - Deleted old details file: public/companies-data/details/RGP.json
+2026-07-02 07:40:19,821 - INFO - Deleted old details file: public/companies-data/details/PERI.json
+2026-07-02 07:40:19,821 - INFO - Deleted old details file: public/companies-data/details/FEIM.json
+2026-07-02 07:40:19,821 - INFO - Deleted old details file: public/companies-data/details/ESTC.json
+2026-07-02 07:40:19,822 - INFO - Deleted old details file: public/companies-data/details/EEFT.json
+2026-07-02 07:40:19,822 - INFO - Deleted old details file: public/companies-data/details/DHX.json
+2026-07-02 07:40:19,822 - INFO - Deleted old details file: public/companies-data/details/BRN.json
+2026-07-02 07:40:19,822 - INFO - Deleted old details file: public/companies-data/details/KNX.json
+2026-07-02 07:40:19,822 - INFO - Deleted old details file: public/companies-data/details/COR.json
+2026-07-02 07:40:19,822 - INFO - Deleted old details file: public/companies-data/details/DNUT.json
+2026-07-02 07:40:19,822 - INFO - Deleted old details file: public/companies-data/details/RNR.json
+2026-07-02 07:40:19,822 - INFO - Deleted old details file: public/companies-data/details/FVCB.json
+2026-07-02 07:40:19,822 - INFO - Deleted old details file: public/companies-data/details/TALO.json
+2026-07-02 07:40:19,822 - INFO - Deleted old details file: public/companies-data/details/HRMY.json
+2026-07-02 07:40:19,822 - INFO - Deleted old details file: public/companies-data/details/DV.json
+2026-07-02 07:40:19,822 - INFO - Deleted old details file: public/companies-data/details/ALTG.json
+2026-07-02 07:40:19,822 - INFO - Deleted old details file: public/companies-data/details/GLW.json
+2026-07-02 07:40:19,822 - INFO - Deleted old details file: public/companies-data/details/CXXIF.json
+2026-07-02 07:40:19,822 - INFO - Deleted old details file: public/companies-data/details/XIFR.json
+2026-07-02 07:40:19,822 - INFO - Deleted old details file: public/companies-data/details/FRPH.json
+2026-07-02 07:40:19,822 - INFO - Deleted old details file: public/companies-data/details/WOR.json
+2026-07-02 07:40:19,823 - INFO - Deleted old details file: public/companies-data/details/VATE.json
+2026-07-02 07:40:19,823 - INFO - Deleted old details file: public/companies-data/details/OEC.json
+2026-07-02 07:40:19,823 - INFO - Deleted old details file: public/companies-data/details/ENB.json
+2026-07-02 07:40:19,823 - INFO - Deleted old details file: public/companies-data/details/OI.json
+2026-07-02 07:40:19,823 - INFO - Deleted old details file: public/companies-data/details/CNP.json
+2026-07-02 07:40:19,823 - INFO - Deleted old details file: public/companies-data/details/BDC.json
+2026-07-02 07:40:19,823 - INFO - Deleted old details file: public/companies-data/details/ROCK.json
+2026-07-02 07:40:19,823 - INFO - Deleted old details file: public/companies-data/details/FXNC.json
+2026-07-02 07:40:19,823 - INFO - Deleted old details file: public/companies-data/details/JAMF.json
+2026-07-02 07:40:19,823 - INFO - Deleted old details file: public/companies-data/details/AAON.json
+2026-07-02 07:40:19,823 - INFO - Deleted old details file: public/companies-data/details/MKL.json
+2026-07-02 07:40:19,823 - INFO - Deleted old details file: public/companies-data/details/SAFT.json
+2026-07-02 07:40:19,823 - INFO - Deleted old details file: public/companies-data/details/ASO.json
+2026-07-02 07:40:19,823 - INFO - Deleted old details file: public/companies-data/details/YORW.json
+2026-07-02 07:40:19,823 - INFO - Deleted old details file: public/companies-data/details/ALGM.json
+2026-07-02 07:40:19,823 - INFO - Deleted old details file: public/companies-data/details/INFU.json
+2026-07-02 07:40:19,824 - INFO - Deleted old details file: public/companies-data/details/KRT.json
+2026-07-02 07:40:19,824 - INFO - Deleted old details file: public/companies-data/details/HLT.json
+2026-07-02 07:40:19,824 - INFO - Deleted old details file: public/companies-data/details/CIEN.json
+2026-07-02 07:40:19,824 - INFO - Deleted old details file: public/companies-data/details/CRC.json
+2026-07-02 07:40:19,824 - INFO - Deleted old details file: public/companies-data/details/KEYS.json
+2026-07-02 07:40:19,824 - INFO - Deleted old details file: public/companies-data/details/FN.json
+2026-07-02 07:40:19,824 - INFO - Deleted old details file: public/companies-data/details/OPEN.json
+2026-07-02 07:40:19,824 - INFO - Deleted old details file: public/companies-data/details/RYN.json
+2026-07-02 07:40:19,824 - INFO - Deleted old details file: public/companies-data/details/DTM.json
+2026-07-02 07:40:19,824 - INFO - Deleted old details file: public/companies-data/details/SOHO.json
+2026-07-02 07:40:19,824 - INFO - Deleted old details file: public/companies-data/details/UUU.json
+2026-07-02 07:40:19,824 - INFO - Deleted old details file: public/companies-data/details/FTI.json
+2026-07-02 07:40:19,824 - INFO - Deleted old details file: public/companies-data/details/LYB.json
+2026-07-02 07:40:19,824 - INFO - Deleted old details file: public/companies-data/details/RLX.json
+2026-07-02 07:40:19,824 - INFO - Deleted old details file: public/companies-data/details/CERT.json
+2026-07-02 07:40:19,824 - INFO - Deleted old details file: public/companies-data/details/WEX.json
+2026-07-02 07:40:19,824 - INFO - Deleted old details file: public/companies-data/details/MD.json
+2026-07-02 07:40:19,825 - INFO - Deleted old details file: public/companies-data/details/ATGE.json
+2026-07-02 07:40:19,825 - INFO - Deleted old details file: public/companies-data/details/MOH.json
+2026-07-02 07:40:19,825 - INFO - Deleted old details file: public/companies-data/details/RBKB.json
+2026-07-02 07:40:19,825 - INFO - Deleted old details file: public/companies-data/details/HOLX.json
+2026-07-02 07:40:19,825 - INFO - Deleted old details file: public/companies-data/details/BRBR.json
+2026-07-02 07:40:19,825 - INFO - Deleted old details file: public/companies-data/details/LAKE.json
+2026-07-02 07:40:19,825 - INFO - Deleted old details file: public/companies-data/details/STEL.json
+2026-07-02 07:40:19,825 - INFO - Deleted old details file: public/companies-data/details/SWKS.json
+2026-07-02 07:40:19,825 - INFO - Deleted old details file: public/companies-data/details/COOK.json
+2026-07-02 07:40:19,825 - INFO - Deleted old details file: public/companies-data/details/NSSC.json
+2026-07-02 07:40:19,825 - INFO - Deleted old details file: public/companies-data/details/GSL.json
+2026-07-02 07:40:19,825 - INFO - Deleted old details file: public/companies-data/details/LESL.json
+2026-07-02 07:40:19,825 - INFO - Deleted old details file: public/companies-data/details/CVLT.json
+2026-07-02 07:40:19,825 - INFO - Deleted old details file: public/companies-data/details/HTBK.json
+2026-07-02 07:40:19,825 - INFO - Deleted old details file: public/companies-data/details/MTCH.json
+2026-07-02 07:40:19,825 - INFO - Deleted old details file: public/companies-data/details/CZFS.json
+2026-07-02 07:40:19,826 - INFO - Deleted old details file: public/companies-data/details/JMSB.json
+2026-07-02 07:40:19,826 - INFO - Deleted old details file: public/companies-data/details/WLFC.json
+2026-07-02 07:40:19,826 - INFO - Deleted old details file: public/companies-data/details/OPCH.json
+2026-07-02 07:40:19,826 - INFO - Deleted old details file: public/companies-data/details/AX.json
+2026-07-02 07:40:19,826 - INFO - Deleted old details file: public/companies-data/details/GIII.json
+2026-07-02 07:40:19,826 - INFO - Deleted old details file: public/companies-data/details/CHX.json
+2026-07-02 07:40:19,826 - INFO - Deleted old details file: public/companies-data/details/CAH.json
+2026-07-02 07:40:19,826 - INFO - Deleted old details file: public/companies-data/details/RLGT.json
+2026-07-02 07:40:19,826 - INFO - Deleted old details file: public/companies-data/details/ALEX.json
+2026-07-02 07:40:19,826 - INFO - Deleted old details file: public/companies-data/details/ACDC.json
+2026-07-02 07:40:19,826 - INFO - Deleted old details file: public/companies-data/details/ATO.json
+2026-07-02 07:40:19,826 - INFO - Deleted old details file: public/companies-data/details/KVUE.json
+2026-07-02 07:40:19,826 - INFO - Deleted old details file: public/companies-data/details/AEP.json
+2026-07-02 07:40:19,826 - INFO - Deleted old details file: public/companies-data/details/OPBK.json
+2026-07-02 07:40:19,826 - INFO - Deleted old details file: public/companies-data/details/OLPX.json
+2026-07-02 07:40:19,826 - INFO - Deleted old details file: public/companies-data/details/ODFL.json
+2026-07-02 07:40:19,826 - INFO - Deleted old details file: public/companies-data/details/YUMC.json
+2026-07-02 07:40:19,827 - INFO - Deleted old details file: public/companies-data/details/GTX.json
+2026-07-02 07:40:19,827 - INFO - Deleted old details file: public/companies-data/details/TRUP.json
+2026-07-02 07:40:19,827 - INFO - Deleted old details file: public/companies-data/details/NPK.json
+2026-07-02 07:40:19,827 - INFO - Deleted old details file: public/companies-data/details/BX.json
+2026-07-02 07:40:19,827 - INFO - Deleted old details file: public/companies-data/details/WH.json
+2026-07-02 07:40:19,827 - INFO - Deleted old details file: public/companies-data/details/PRVA.json
+2026-07-02 07:40:19,827 - INFO - Deleted old details file: public/companies-data/details/GTM.json
+2026-07-02 07:40:19,827 - INFO - Deleted old details file: public/companies-data/details/CLBK.json
+2026-07-02 07:40:19,827 - INFO - Deleted old details file: public/companies-data/details/UPBD.json
+2026-07-02 07:40:19,827 - INFO - Deleted old details file: public/companies-data/details/TEAD.json
+2026-07-02 07:40:19,827 - INFO - Deleted old details file: public/companies-data/details/LVLU.json
+2026-07-02 07:40:19,827 - INFO - Deleted old details file: public/companies-data/details/CLB.json
+2026-07-02 07:40:19,827 - INFO - Deleted old details file: public/companies-data/details/VRSN.json
+2026-07-02 07:40:19,827 - INFO - Deleted old details file: public/companies-data/details/XHR.json
+2026-07-02 07:40:19,827 - INFO - Deleted old details file: public/companies-data/details/ALG.json
+2026-07-02 07:40:19,827 - INFO - Deleted old details file: public/companies-data/details/CRSR.json
+2026-07-02 07:40:19,827 - INFO - Deleted old details file: public/companies-data/details/LYV.json
+2026-07-02 07:40:19,828 - INFO - Deleted old details file: public/companies-data/details/QRVO.json
+2026-07-02 07:40:19,828 - INFO - Deleted old details file: public/companies-data/details/VZ.json
+2026-07-02 07:40:19,828 - INFO - Deleted old details file: public/companies-data/details/AXTA.json
+2026-07-02 07:40:19,828 - INFO - Deleted old details file: public/companies-data/details/NFBK.json
+2026-07-02 07:40:19,828 - INFO - Deleted old details file: public/companies-data/details/DT.json
+2026-07-02 07:40:19,828 - INFO - Deleted old details file: public/companies-data/details/FANG.json
+2026-07-02 07:40:19,828 - INFO - Deleted old details file: public/companies-data/details/CSTE.json
+2026-07-02 07:40:19,828 - INFO - Deleted old details file: public/companies-data/details/WHLR.json
+2026-07-02 07:40:19,828 - INFO - Deleted old details file: public/companies-data/details/CP.json
+2026-07-02 07:40:19,828 - INFO - Deleted old details file: public/companies-data/details/SONO.json
+2026-07-02 07:40:19,828 - INFO - Deleted old details file: public/companies-data/details/HRTG.json
+2026-07-02 07:40:19,828 - INFO - Deleted old details file: public/companies-data/details/FIZZ.json
+2026-07-02 07:40:19,828 - INFO - Deleted old details file: public/companies-data/details/NSTS.json
+2026-07-02 07:40:19,828 - INFO - Deleted old details file: public/companies-data/details/PLD.json
+2026-07-02 07:40:19,828 - INFO - Deleted old details file: public/companies-data/details/BBCP.json
+2026-07-02 07:40:19,828 - INFO - Deleted old details file: public/companies-data/details/GPK.json
+2026-07-02 07:40:19,829 - INFO - Deleted old details file: public/companies-data/details/MDU.json
+2026-07-02 07:40:19,829 - INFO - Deleted old details file: public/companies-data/details/TXNM.json
+2026-07-02 07:40:19,829 - INFO - Deleted old details file: public/companies-data/details/DVA.json
+2026-07-02 07:40:19,829 - INFO - Deleted old details file: public/companies-data/details/FYBR.json
+2026-07-02 07:40:19,829 - INFO - Deleted old details file: public/companies-data/details/MTSI.json
+2026-07-02 07:40:19,829 - INFO - Deleted old details file: public/companies-data/details/WS.json
+2026-07-02 07:40:19,829 - INFO - Deleted old details file: public/companies-data/details/L.json
+2026-07-02 07:40:19,829 - INFO - Deleted old details file: public/companies-data/details/WSBC.json
+2026-07-02 07:40:19,829 - INFO - Deleted old details file: public/companies-data/details/RXO.json
+2026-07-02 07:40:19,829 - INFO - Deleted old details file: public/companies-data/details/SEE.json
+2026-07-02 07:40:19,829 - INFO - Deleted old details file: public/companies-data/details/CTO.json
+2026-07-02 07:40:19,829 - INFO - Deleted old details file: public/companies-data/details/LII.json
+2026-07-02 07:40:19,829 - INFO - Deleted old details file: public/companies-data/details/VTOL.json
+2026-07-02 07:40:19,829 - INFO - Deleted old details file: public/companies-data/details/VLO.json
+2026-07-02 07:40:19,830 - INFO - Deleted old details file: public/companies-data/details/SAFE.json
+2026-07-02 07:40:19,830 - INFO - Deleted old details file: public/companies-data/details/XNET.json
+2026-07-02 07:40:19,830 - INFO - Deleted old details file: public/companies-data/details/ADEA.json
+2026-07-02 07:40:19,830 - INFO - Deleted old details file: public/companies-data/details/DPZ.json
+2026-07-02 07:40:19,830 - INFO - Deleted old details file: public/companies-data/details/EOG.json
+2026-07-02 07:40:19,830 - INFO - Deleted old details file: public/companies-data/details/ESQ.json
+2026-07-02 07:40:19,830 - INFO - Deleted old details file: public/companies-data/details/SNEX.json
+2026-07-02 07:40:19,830 - INFO - Deleted old details file: public/companies-data/details/PNC.json
+2026-07-02 07:40:19,830 - INFO - Deleted old details file: public/companies-data/details/AZO.json
+2026-07-02 07:40:19,830 - INFO - Deleted old details file: public/companies-data/details/RSVR.json
+2026-07-02 07:40:19,830 - INFO - Deleted old details file: public/companies-data/details/MCW.json
+2026-07-02 07:40:19,830 - INFO - Deleted old details file: public/companies-data/details/ITRN.json
+2026-07-02 07:40:19,830 - INFO - Deleted old details file: public/companies-data/details/PTEN.json
+2026-07-02 07:40:19,830 - INFO - Deleted old details file: public/companies-data/details/IRDM.json
+2026-07-02 07:40:19,830 - INFO - Deleted old details file: public/companies-data/details/HNRG.json
+2026-07-02 07:40:19,830 - INFO - Deleted old details file: public/companies-data/details/WOW.json
+2026-07-02 07:40:19,831 - INFO - Deleted old details file: public/companies-data/details/WTW.json
+2026-07-02 07:40:19,831 - INFO - Deleted old details file: public/companies-data/details/AN.json
+2026-07-02 07:40:19,831 - INFO - Deleted old details file: public/companies-data/details/AMTM.json
+2026-07-02 07:40:19,831 - INFO - Deleted old details file: public/companies-data/details/POST.json
+2026-07-02 07:40:19,831 - INFO - Deleted old details file: public/companies-data/details/ACA.json
+2026-07-02 07:40:19,831 - INFO - Deleted old details file: public/companies-data/details/EHAB.json
+2026-07-02 07:40:19,831 - INFO - Deleted old details file: public/companies-data/details/UI.json
+2026-07-02 07:40:19,831 - INFO - Deleted old details file: public/companies-data/details/CDRE.json
+2026-07-02 07:40:19,831 - INFO - Deleted old details file: public/companies-data/details/RBA.json
+2026-07-02 07:40:19,831 - INFO - Deleted old details file: public/companies-data/details/WCN.json
+2026-07-02 07:40:19,831 - INFO - Deleted old details file: public/companies-data/details/NFLX.json
+2026-07-02 07:40:19,831 - INFO - Deleted old details file: public/companies-data/details/TMP.json
+2026-07-02 07:40:19,831 - INFO - Deleted old details file: public/companies-data/details/HP.json
+2026-07-02 07:40:19,831 - INFO - Deleted old details file: public/companies-data/details/MAR.json
+2026-07-02 07:40:19,831 - INFO - Deleted old details file: public/companies-data/details/COFS.json
+2026-07-02 07:40:19,831 - INFO - Deleted old details file: public/companies-data/details/NHC.json
+2026-07-02 07:40:19,832 - INFO - Deleted old details file: public/companies-data/details/CIVB.json
+2026-07-02 07:40:19,832 - INFO - Deleted old details file: public/companies-data/details/ITT.json
+2026-07-02 07:40:19,832 - INFO - Deleted old details file: public/companies-data/details/BIGGQ.json
+2026-07-02 07:40:19,832 - INFO - Deleted old details file: public/companies-data/details/PEP.json
+2026-07-02 07:40:19,832 - INFO - Deleted old details file: public/companies-data/details/PAYX.json
+2026-07-02 07:40:19,832 - INFO - Deleted old details file: public/companies-data/details/NICE.json
+2026-07-02 07:40:19,832 - INFO - Deleted old details file: public/companies-data/details/HWKN.json
+2026-07-02 07:40:19,832 - INFO - Deleted old details file: public/companies-data/details/DHAI.json
+2026-07-02 07:40:19,832 - INFO - Deleted old details file: public/companies-data/details/HLLY.json
+2026-07-02 07:40:19,832 - INFO - Deleted old details file: public/companies-data/details/PCB.json
+2026-07-02 07:40:19,832 - INFO - Deleted old details file: public/companies-data/details/BKU.json
+2026-07-02 07:40:19,832 - INFO - Deleted old details file: public/companies-data/details/FLNG.json
+2026-07-02 07:40:19,832 - INFO - Deleted old details file: public/companies-data/details/D.json
+2026-07-02 07:40:19,832 - INFO - Deleted old details file: public/companies-data/details/COST.json
+2026-07-02 07:40:19,832 - INFO - Deleted old details file: public/companies-data/details/UIS.json
+2026-07-02 07:40:19,832 - INFO - Deleted old details file: public/companies-data/details/SBSI.json
+2026-07-02 07:40:19,832 - INFO - Deleted old details file: public/companies-data/details/FULT.json
+2026-07-02 07:40:19,833 - INFO - Deleted old details file: public/companies-data/details/ENVA.json
+2026-07-02 07:40:19,833 - INFO - Deleted old details file: public/companies-data/details/BOSC.json
+2026-07-02 07:40:19,833 - INFO - Deleted old details file: public/companies-data/details/CLMB.json
+2026-07-02 07:40:19,833 - INFO - Deleted old details file: public/companies-data/details/MEG.json
+2026-07-02 07:40:19,833 - INFO - Deleted old details file: public/companies-data/details/PGR.json
+2026-07-02 07:40:19,833 - INFO - Deleted old details file: public/companies-data/details/SM.json
+2026-07-02 07:40:19,833 - INFO - Deleted old details file: public/companies-data/details/PVH.json
+2026-07-02 07:40:19,833 - INFO - Deleted old details file: public/companies-data/details/PLUS.json
+2026-07-02 07:40:19,833 - INFO - Deleted old details file: public/companies-data/details/PLTK.json
+2026-07-02 07:40:19,833 - INFO - Deleted old details file: public/companies-data/details/WMT.json
+2026-07-02 07:40:19,833 - INFO - Deleted old details file: public/companies-data/details/CTOS.json
+2026-07-02 07:40:19,833 - INFO - Deleted old details file: public/companies-data/details/PRAA.json
+2026-07-02 07:40:19,833 - INFO - Deleted old details file: public/companies-data/details/NBHC.json
+2026-07-02 07:40:19,833 - INFO - Deleted old details file: public/companies-data/details/BJ.json
+2026-07-02 07:40:19,833 - INFO - Deleted old details file: public/companies-data/details/MELI.json
+2026-07-02 07:40:19,834 - INFO - Deleted old details file: public/companies-data/details/OPAD.json
+2026-07-02 07:40:19,834 - INFO - Deleted old details file: public/companies-data/details/EGY.json
+2026-07-02 07:40:19,834 - INFO - Deleted old details file: public/companies-data/details/GTIM.json
+2026-07-02 07:40:19,834 - INFO - Deleted old details file: public/companies-data/details/PRG.json
+2026-07-02 07:40:19,834 - INFO - Deleted old details file: public/companies-data/details/TRNS.json
+2026-07-02 07:40:19,834 - INFO - Deleted old details file: public/companies-data/details/TBLA.json
+2026-07-02 07:40:19,834 - INFO - Deleted old details file: public/companies-data/details/FC.json
+2026-07-02 07:40:19,834 - INFO - Deleted old details file: public/companies-data/details/LEA.json
+2026-07-02 07:40:19,834 - INFO - Deleted old details file: public/companies-data/details/NRG.json
+2026-07-02 07:40:19,834 - INFO - Deleted old details file: public/companies-data/details/GDEN.json
+2026-07-02 07:40:19,834 - INFO - Deleted old details file: public/companies-data/details/DOCU.json
+2026-07-02 07:40:19,834 - INFO - Deleted old details file: public/companies-data/details/IGT.json
+2026-07-02 07:40:19,834 - INFO - Deleted old details file: public/companies-data/details/VST.json
+2026-07-02 07:40:19,834 - INFO - Deleted old details file: public/companies-data/details/CSPI.json
+2026-07-02 07:40:19,834 - INFO - Deleted old details file: public/companies-data/details/DOCN.json
+2026-07-02 07:40:19,834 - INFO - Deleted old details file: public/companies-data/details/SCVL.json
+2026-07-02 07:40:19,834 - INFO - Deleted old details file: public/companies-data/details/AVAH.json
+2026-07-02 07:40:19,835 - INFO - Deleted old details file: public/companies-data/details/VBIX.json
+2026-07-02 07:40:19,835 - INFO - Deleted old details file: public/companies-data/details/AMR.json
+2026-07-02 07:40:19,835 - INFO - Deleted old details file: public/companies-data/details/TREE.json
+2026-07-02 07:40:19,835 - INFO - Deleted old details file: public/companies-data/details/MET.json
+2026-07-02 07:40:19,835 - INFO - Deleted old details file: public/companies-data/details/SWIM.json
+2026-07-02 07:40:19,835 - INFO - Deleted old details file: public/companies-data/details/PAYO.json
+2026-07-02 07:40:19,835 - INFO - Deleted old details file: public/companies-data/details/OGE.json
+2026-07-02 07:40:19,835 - INFO - Deleted old details file: public/companies-data/details/ACGL.json
+2026-07-02 07:40:19,835 - INFO - Deleted old details file: public/companies-data/details/CAR.json
+2026-07-02 07:40:19,835 - INFO - Deleted old details file: public/companies-data/details/FERG.json
+2026-07-02 07:40:19,835 - INFO - Deleted old details file: public/companies-data/details/TUSK.json
+2026-07-02 07:40:19,835 - INFO - Deleted old details file: public/companies-data/details/CTBI.json
+2026-07-02 07:40:19,835 - INFO - Deleted old details file: public/companies-data/details/TCBK.json
+2026-07-02 07:40:19,835 - INFO - Deleted old details file: public/companies-data/details/HDSN.json
+2026-07-02 07:40:19,835 - INFO - Deleted old details file: public/companies-data/details/PCOR.json
+2026-07-02 07:40:19,835 - INFO - Deleted old details file: public/companies-data/details/ULTA.json
+2026-07-02 07:40:19,835 - INFO - Deleted old details file: public/companies-data/details/AAME.json
+2026-07-02 07:40:19,836 - INFO - Deleted old details file: public/companies-data/details/TSLA.json
+2026-07-02 07:40:19,836 - INFO - Deleted old details file: public/companies-data/details/GO.json
+2026-07-02 07:40:19,836 - INFO - Deleted old details file: public/companies-data/details/BHE.json
+2026-07-02 07:40:19,836 - INFO - Deleted old details file: public/companies-data/details/PEB.json
+2026-07-02 07:40:19,836 - INFO - Deleted old details file: public/companies-data/details/LE.json
+2026-07-02 07:40:19,836 - INFO - Deleted old details file: public/companies-data/details/BDN.json
+2026-07-02 07:40:19,836 - INFO - Deleted old details file: public/companies-data/details/MGRC.json
+2026-07-02 07:40:19,836 - INFO - Deleted old details file: public/companies-data/details/CWCO.json
+2026-07-02 07:40:19,836 - INFO - Deleted old details file: public/companies-data/details/EME.json
+2026-07-02 07:40:19,836 - INFO - Deleted old details file: public/companies-data/details/TSCO.json
+2026-07-02 07:40:19,836 - INFO - Deleted old details file: public/companies-data/details/AKA.json
+2026-07-02 07:40:19,836 - INFO - Deleted old details file: public/companies-data/details/HAYW.json
+2026-07-02 07:40:19,836 - INFO - Deleted old details file: public/companies-data/details/CTM.json
+2026-07-02 07:40:19,836 - INFO - Deleted old details file: public/companies-data/details/CRNC.json
+2026-07-02 07:40:19,836 - INFO - Deleted old details file: public/companies-data/details/OMF.json
+2026-07-02 07:40:19,836 - INFO - Deleted old details file: public/companies-data/details/FTRE.json
+2026-07-02 07:40:19,837 - INFO - Deleted old details file: public/companies-data/details/UDR.json
+2026-07-02 07:40:19,837 - INFO - Deleted old details file: public/companies-data/details/NABL.json
+2026-07-02 07:40:19,837 - INFO - Deleted old details file: public/companies-data/details/PSTL.json
+2026-07-02 07:40:19,837 - INFO - Deleted old details file: public/companies-data/details/FE.json
+2026-07-02 07:40:19,837 - INFO - Deleted old details file: public/companies-data/details/EVI.json
+2026-07-02 07:40:19,837 - INFO - Deleted old details file: public/companies-data/details/MLNK.json
+2026-07-02 07:40:19,837 - INFO - Deleted old details file: public/companies-data/details/ARW.json
+2026-07-02 07:40:19,837 - INFO - Deleted old details file: public/companies-data/details/NWPP.json
+2026-07-02 07:40:19,837 - INFO - Deleted old details file: public/companies-data/details/AOUT.json
+2026-07-02 07:40:19,837 - INFO - Deleted old details file: public/companies-data/details/NVDA.json
+2026-07-02 07:40:19,837 - INFO - Deleted old details file: public/companies-data/details/HPQ.json
+2026-07-02 07:40:19,837 - INFO - Deleted old details file: public/companies-data/details/CVI.json
+2026-07-02 07:40:19,837 - INFO - Deleted old details file: public/companies-data/details/GXO.json
+2026-07-02 07:40:19,837 - INFO - Deleted old details file: public/companies-data/details/COP.json
+2026-07-02 07:40:19,837 - INFO - Deleted old details file: public/companies-data/details/CLF.json
+2026-07-02 07:40:19,837 - INFO - Deleted old details file: public/companies-data/details/FNMA.json
+2026-07-02 07:40:19,837 - INFO - Deleted old details file: public/companies-data/details/WTRG.json
+2026-07-02 07:40:19,838 - INFO - Deleted old details file: public/companies-data/details/CBRE.json
+2026-07-02 07:40:19,838 - INFO - Deleted old details file: public/companies-data/details/MCB.json
+2026-07-02 07:40:19,838 - INFO - Deleted old details file: public/companies-data/details/CBU.json
+2026-07-02 07:40:19,838 - INFO - Deleted old details file: public/companies-data/details/USPH.json
+2026-07-02 07:40:19,838 - INFO - Deleted old details file: public/companies-data/details/CTRA.json
+2026-07-02 07:40:19,838 - INFO - Deleted old details file: public/companies-data/details/SMBC.json
+2026-07-02 07:40:19,838 - INFO - Deleted old details file: public/companies-data/details/ETWO.json
+2026-07-02 07:40:19,838 - INFO - Deleted old details file: public/companies-data/details/VSCO.json
+2026-07-02 07:40:19,838 - INFO - Deleted old details file: public/companies-data/details/IROQ.json
+2026-07-02 07:40:19,838 - INFO - Deleted old details file: public/companies-data/details/FIX.json
+2026-07-02 07:40:19,838 - INFO - Deleted old details file: public/companies-data/details/COLD.json
+2026-07-02 07:40:19,838 - INFO - Deleted old details file: public/companies-data/details/KO.json
+2026-07-02 07:40:19,838 - INFO - Deleted old details file: public/companies-data/details/VMD.json
+2026-07-02 07:40:19,838 - INFO - Deleted old details file: public/companies-data/details/CCCS.json
+2026-07-02 07:40:19,838 - INFO - Deleted old details file: public/companies-data/details/EPAC.json
+2026-07-02 07:40:19,838 - INFO - Deleted old details file: public/companies-data/details/MNTK.json
+2026-07-02 07:40:19,839 - INFO - Deleted old details file: public/companies-data/details/ADBE.json
+2026-07-02 07:40:19,839 - INFO - Deleted old details file: public/companies-data/details/URI.json
+2026-07-02 07:40:19,839 - INFO - Deleted old details file: public/companies-data/details/CECO.json
+2026-07-02 07:40:19,839 - INFO - Deleted old details file: public/companies-data/details/MCY.json
+2026-07-02 07:40:19,839 - INFO - Deleted old details file: public/companies-data/details/INN.json
+2026-07-02 07:40:19,839 - INFO - Deleted old details file: public/companies-data/details/SIEB.json
+2026-07-02 07:40:19,839 - INFO - Deleted old details file: public/companies-data/details/COF.json
+2026-07-02 07:40:19,839 - INFO - Deleted old details file: public/companies-data/details/SNA.json
+2026-07-02 07:40:19,839 - INFO - Deleted old details file: public/companies-data/details/PDLB.json
+2026-07-02 07:40:19,839 - INFO - Deleted old details file: public/companies-data/details/WING.json
+2026-07-02 07:40:19,839 - INFO - Deleted old details file: public/companies-data/details/LNG.json
+2026-07-02 07:40:19,839 - INFO - Deleted old details file: public/companies-data/details/INTA.json
+2026-07-02 07:40:19,839 - INFO - Deleted old details file: public/companies-data/details/SAIA.json
+2026-07-02 07:40:19,839 - INFO - Deleted old details file: public/companies-data/details/DGII.json
+2026-07-02 07:40:19,839 - INFO - Deleted old details file: public/companies-data/details/MPTI.json
+2026-07-02 07:40:19,839 - INFO - Deleted old details file: public/companies-data/details/MAMO.json
+2026-07-02 07:40:19,839 - INFO - Deleted old details file: public/companies-data/details/SVV.json
+2026-07-02 07:40:19,840 - INFO - Deleted old details file: public/companies-data/details/KEY.json
+2026-07-02 07:40:19,840 - INFO - Deleted old details file: public/companies-data/details/CPAY.json
+2026-07-02 07:40:19,840 - INFO - Deleted old details file: public/companies-data/details/EBS.json
+2026-07-02 07:40:19,840 - INFO - Deleted old details file: public/companies-data/details/IESC.json
+2026-07-02 07:40:19,840 - INFO - Deleted old details file: public/companies-data/details/OPY.json
+2026-07-02 07:40:19,840 - INFO - Deleted old details file: public/companies-data/details/ANF.json
+2026-07-02 07:40:19,840 - INFO - Deleted old details file: public/companies-data/details/MTN.json
+2026-07-02 07:40:19,840 - INFO - Deleted old details file: public/companies-data/details/LCII.json
+2026-07-02 07:40:19,840 - INFO - Deleted old details file: public/companies-data/details/ACLS.json
+2026-07-02 07:40:19,840 - INFO - Deleted old details file: public/companies-data/details/LXFR.json
+2026-07-02 07:40:19,840 - INFO - Deleted old summary file: public/companies-data/companies.json
+2026-07-02 07:40:20,334 - INFO - Parsed Excel: 390 companies loaded from sheets ['2023', '2024'].
+2026-07-02 07:40:20,334 - INFO - API request: yf.download(batch=['AAME', 'AAON', 'ABBV', 'ACA', 'ACDC', 'ACGL', 'ACLS', 'ACU', 'ADBE', 'ADEA', 'ADV', 'AEP', 'AHH', 'AIRS', 'AKA', 'ALEX', 'ALGM', 'ALG', 'ALLY', 'ALTG'], period='5y', interval='1d', group_by='ticker', progress=False, auto_adjust=False)
+2026-07-02 07:40:21,430 - ERROR - HTTP Error 404: 
+2026-07-02 07:40:21,692 - ERROR - HTTP Error 404: 
+2026-07-02 07:40:22,054 - ERROR - 
+2 Failed downloads:
+2026-07-02 07:40:22,054 - ERROR - ['ALEX', 'AHH']: YFPricesMissingError('possibly delisted; no price data found  (period=5y) (Yahoo error = "No data found, symbol may be delisted")')
+2026-07-02 07:40:22,107 - INFO - API request for batch ['AAME', 'AAON', 'ABBV', 'ACA', 'ACDC', 'ACGL', 'ACLS', 'ACU', 'ADBE', 'ADEA', 'ADV', 'AEP', 'AHH', 'AIRS', 'AKA', 'ALEX', 'ALGM', 'ALG', 'ALLY', 'ALTG'] completed in 1.77 seconds.
+2026-07-02 07:40:22,292 - ERROR - Latest price for AHH is NaN or None. Using most recent non-NaN price: None (date: None)
+2026-07-02 07:40:22,334 - ERROR - Latest price for ALEX is NaN or None. Using most recent non-NaN price: None (date: None)
+2026-07-02 07:40:27,392 - INFO - API request: yf.download(batch=['AMED', 'AMR', 'AMTM', 'AMWD', 'ANF', 'AN', 'AOUT', 'APOG', 'ARRY', 'ARW', 'ASGN', 'ASO', 'ASRT', 'ATGE', 'ATO', 'ATR', 'AVAH', 'AVTR', 'AXL', 'AXTA'], period='5y', interval='1d', group_by='ticker', progress=False, auto_adjust=False)
+2026-07-02 07:40:28,802 - ERROR - 
+4 Failed downloads:
+2026-07-02 07:40:28,802 - ERROR - ['ASGN', 'ATGE', 'AMED', 'AXL']: YFPricesMissingError('possibly delisted; no price data found  (period=5y) (Yahoo error = "No data found, symbol may be delisted")')
+2026-07-02 07:40:28,830 - INFO - API request for batch ['AMED', 'AMR', 'AMTM', 'AMWD', 'ANF', 'AN', 'AOUT', 'APOG', 'ARRY', 'ARW', 'ASGN', 'ASO', 'ASRT', 'ATGE', 'ATO', 'ATR', 'AVAH', 'AVTR', 'AXL', 'AXTA'] completed in 1.44 seconds.
+2026-07-02 07:40:28,843 - ERROR - Latest price for AMED is NaN or None. Using most recent non-NaN price: None (date: None)
+2026-07-02 07:40:28,886 - ERROR - Latest price for AMWD is NaN or None. Using most recent non-NaN price: 48.09000015258789 (date: 2026-05-28 00:00:00)
+2026-07-02 07:40:29,004 - ERROR - Latest price for ASGN is NaN or None. Using most recent non-NaN price: None (date: None)
+2026-07-02 07:40:29,033 - ERROR - Latest price for ASRT is NaN or None. Using most recent non-NaN price: 23.5 (date: 2026-06-26 00:00:00)
+2026-07-02 07:40:29,047 - ERROR - Latest price for ATGE is NaN or None. Using most recent non-NaN price: None (date: None)
+2026-07-02 07:40:29,118 - ERROR - Latest price for AXL is NaN or None. Using most recent non-NaN price: None (date: None)
+2026-07-02 07:40:34,133 - INFO - API request: yf.download(batch=['AX', 'AZO', 'BATL', 'BBCP', 'BDC', 'BDN', 'BHE', 'BIGGQ', 'BJ', 'BKNG', 'BKU', 'BLCO', 'BOSC', 'BRBR', 'BRN', 'BRT', 'BTU', 'BX', 'CAH', 'CAR'], period='5y', interval='1d', group_by='ticker', progress=False, auto_adjust=False)
+2026-07-02 07:40:35,273 - INFO - API request for batch ['AX', 'AZO', 'BATL', 'BBCP', 'BDC', 'BDN', 'BHE', 'BIGGQ', 'BJ', 'BKNG', 'BKU', 'BLCO', 'BOSC', 'BRBR', 'BRN', 'BRT', 'BTU', 'BX', 'CAH', 'CAR'] completed in 1.14 seconds.
+2026-07-02 07:40:40,561 - INFO - API request: yf.download(batch=['CASH', 'CBRE', 'CBU', 'CCCS', 'CCSI', 'CDRE', 'CECO', 'CERT', 'CFFN', 'CHH', 'CHX', 'CIEN', 'CIVB', 'CI', 'CLBK', 'CLB', 'CLF', 'CLMB', 'CMPR', 'CNP'], period='5y', interval='1d', group_by='ticker', progress=False, auto_adjust=False)
+2026-07-02 07:40:41,829 - ERROR - 
+2 Failed downloads:
+2026-07-02 07:40:41,829 - ERROR - ['CHX', 'CCCS']: YFPricesMissingError('possibly delisted; no price data found  (period=5y) (Yahoo error = "No data found, symbol may be delisted")')
+2026-07-02 07:40:41,879 - INFO - API request for batch ['CASH', 'CBRE', 'CBU', 'CCCS', 'CCSI', 'CDRE', 'CECO', 'CERT', 'CFFN', 'CHH', 'CHX', 'CIEN', 'CIVB', 'CI', 'CLBK', 'CLB', 'CLF', 'CLMB', 'CMPR', 'CNP'] completed in 1.32 seconds.
+2026-07-02 07:40:41,935 - ERROR - Latest price for CCCS is NaN or None. Using most recent non-NaN price: None (date: None)
+2026-07-02 07:40:42,035 - ERROR - Latest price for CHX is NaN or None. Using most recent non-NaN price: None (date: None)
+2026-07-02 07:40:47,164 - INFO - API request: yf.download(batch=['COF', 'COFS', 'COLD', 'COOK', 'COP', 'COR', 'COST', 'CPAY', 'CP', 'CRC', 'CRNC', 'CRSR', 'CSPI', 'CSTE', 'CTBI', 'CTM', 'CTO', 'CTOS', 'CTRA', 'CURV'], period='5y', interval='1d', group_by='ticker', progress=False, auto_adjust=False)
+2026-07-02 07:40:48,276 - INFO - API request for batch ['COF', 'COFS', 'COLD', 'COOK', 'COP', 'COR', 'COST', 'CPAY', 'CP', 'CRC', 'CRNC', 'CRSR', 'CSPI', 'CSTE', 'CTBI', 'CTM', 'CTO', 'CTOS', 'CTRA', 'CURV'] completed in 1.11 seconds.
+2026-07-02 07:40:48,571 - ERROR - Latest price for CTRA is NaN or None. Using most recent non-NaN price: 32.560001373291016 (date: 2026-05-07 00:00:00)
+2026-07-02 07:40:53,586 - INFO - API request: yf.download(batch=['CVI', 'CVLT', 'CWCO', 'CXXIF', 'CZFS', 'DGII', 'DHAI', 'DHX', 'DLTR', 'DNUT', 'DOCN', 'DOCU', 'DPZ', 'DTM', 'DT', 'DVA', 'DV', 'D', 'EAT', 'ENB'], period='5y', interval='1d', group_by='ticker', progress=False, auto_adjust=False)
+2026-07-02 07:40:54,753 - INFO - API request for batch ['CVI', 'CVLT', 'CWCO', 'CXXIF', 'CZFS', 'DGII', 'DHAI', 'DHX', 'DLTR', 'DNUT', 'DOCN', 'DOCU', 'DPZ', 'DTM', 'DT', 'DVA', 'DV', 'D', 'EAT', 'ENB'] completed in 1.17 seconds.
+2026-07-02 07:41:00,041 - INFO - API request: yf.download(batch=['EBS', 'EEFT', 'EE', 'EGY', 'EHAB', 'EME', 'ENVA', 'EOG', 'KMI', 'EPAC', 'EPRT', 'ESQ', 'ESTC', 'ETWO', 'EVCM', 'EVI', 'FANG', 'FCN', 'FC', 'FEIM'], period='5y', interval='1d', group_by='ticker', progress=False, auto_adjust=False)
+2026-07-02 07:41:01,292 - ERROR - 
+1 Failed download:
+2026-07-02 07:41:01,292 - ERROR - ['ETWO']: YFPricesMissingError('possibly delisted; no price data found  (period=5y) (Yahoo error = "No data found, symbol may be delisted")')
+2026-07-02 07:41:01,321 - INFO - API request for batch ['EBS', 'EEFT', 'EE', 'EGY', 'EHAB', 'EME', 'ENVA', 'EOG', 'KMI', 'EPAC', 'EPRT', 'ESQ', 'ESTC', 'ETWO', 'EVCM', 'EVI', 'FANG', 'FCN', 'FC', 'FEIM'] completed in 1.28 seconds.
+2026-07-02 07:41:01,393 - ERROR - Latest price for EHAB is NaN or None. Using most recent non-NaN price: 13.800000190734863 (date: 2026-05-14 00:00:00)
+2026-07-02 07:41:01,542 - ERROR - Latest price for ETWO is NaN or None. Using most recent non-NaN price: None (date: None)
+2026-07-02 07:41:06,628 - INFO - API request: yf.download(batch=['FERG', 'FE', 'FFWM', 'FISI', 'FIX', 'FIZZ', 'FLNG', 'FLO', 'FNMA', 'FN', 'FRPH', 'FTI', 'FTRE', 'FULT', 'FVCB', 'FVRR', 'FXNC', 'FYBR', 'GAP', 'GDEN'], period='5y', interval='1d', group_by='ticker', progress=False, auto_adjust=False)
+2026-07-02 07:41:07,941 - ERROR - 
+2 Failed downloads:
+2026-07-02 07:41:07,941 - ERROR - ['FYBR', 'FFWM']: YFPricesMissingError('possibly delisted; no price data found  (period=5y) (Yahoo error = "No data found, symbol may be delisted")')
+2026-07-02 07:41:07,993 - INFO - API request for batch ['FERG', 'FE', 'FFWM', 'FISI', 'FIX', 'FIZZ', 'FLNG', 'FLO', 'FNMA', 'FN', 'FRPH', 'FTI', 'FTRE', 'FULT', 'FVCB', 'FVRR', 'FXNC', 'FYBR', 'GAP', 'GDEN'] completed in 1.36 seconds.
+2026-07-02 07:41:08,035 - ERROR - Latest price for FFWM is NaN or None. Using most recent non-NaN price: None (date: None)
+2026-07-02 07:41:08,250 - ERROR - Latest price for FYBR is NaN or None. Using most recent non-NaN price: None (date: None)
+2026-07-02 07:41:08,279 - ERROR - Latest price for GDEN is NaN or None. Using most recent non-NaN price: 28.549999237060547 (date: 2026-05-07 00:00:00)
+2026-07-02 07:41:13,280 - INFO - API request: yf.download(batch=['GIII', 'GILT', 'GLW', 'GNL', 'GO', 'GPK', 'GSL', 'GTIM', 'GTX', 'GXO', 'HAYW', 'HDSN', 'HLLY', 'HLMN', 'NHPAP', 'HLT', 'HNRG', 'HOG', 'HOLX', 'HPK'], period='5y', interval='1d', group_by='ticker', progress=False, auto_adjust=False)
+2026-07-02 07:41:14,543 - ERROR - 
+1 Failed download:
+2026-07-02 07:41:14,543 - ERROR - ['HOLX']: YFPricesMissingError('possibly delisted; no price data found  (period=5y) (Yahoo error = "No data found, symbol may be delisted")')
+2026-07-02 07:41:14,571 - INFO - API request for batch ['GIII', 'GILT', 'GLW', 'GNL', 'GO', 'GPK', 'GSL', 'GTIM', 'GTX', 'GXO', 'HAYW', 'HDSN', 'HLLY', 'HLMN', 'NHPAP', 'HLT', 'HNRG', 'HOG', 'HOLX', 'HPK'] completed in 1.29 seconds.
+2026-07-02 07:41:14,845 - ERROR - Latest price for HOLX is NaN or None. Using most recent non-NaN price: None (date: None)
+2026-07-02 07:41:19,859 - INFO - API request: yf.download(batch=['HPQ', 'HP', 'HRMY', 'HRTG', 'HTBK', 'HWKN', 'IESC', 'IEX', 'IGT', 'INFU', 'INN', 'INTA', 'INTU', 'IRDM', 'IROQ', 'ITRN', 'ITT', 'JAMF', 'JLL', 'JMSB'], period='5y', interval='1d', group_by='ticker', progress=False, auto_adjust=False)
+2026-07-02 07:41:21,449 - ERROR - 
+4 Failed downloads:
+2026-07-02 07:41:21,449 - ERROR - ['IGT', 'IROQ', 'HTBK', 'JAMF']: YFPricesMissingError('possibly delisted; no price data found  (period=5y) (Yahoo error = "No data found, symbol may be delisted")')
+2026-07-02 07:41:21,473 - INFO - API request for batch ['HPQ', 'HP', 'HRMY', 'HRTG', 'HTBK', 'HWKN', 'IESC', 'IEX', 'IGT', 'INFU', 'INN', 'INTA', 'INTU', 'IRDM', 'IROQ', 'ITRN', 'ITT', 'JAMF', 'JLL', 'JMSB'] completed in 1.61 seconds.
+2026-07-02 07:41:21,565 - ERROR - Latest price for HTBK is NaN or None. Using most recent non-NaN price: None (date: None)
+2026-07-02 07:41:21,621 - ERROR - Latest price for IGT is NaN or None. Using most recent non-NaN price: None (date: None)
+2026-07-02 07:41:21,706 - ERROR - Latest price for IROQ is NaN or None. Using most recent non-NaN price: None (date: None)
+2026-07-02 07:41:21,748 - ERROR - Latest price for JAMF is NaN or None. Using most recent non-NaN price: None (date: None)
+2026-07-02 07:41:26,777 - INFO - API request: yf.download(batch=['JRSH', 'KEY', 'KEYS', 'KLIC', 'KNX', 'KO', 'KRT', 'KVUE', 'LAKE', 'LCII', 'LEA', 'LESL', 'LE', 'LII', 'LMB', 'LNG', 'LNKB', 'LUMN', 'LVLU', 'LXFR'], period='5y', interval='1d', group_by='ticker', progress=False, auto_adjust=False)
+2026-07-02 07:41:28,069 - INFO - API request for batch ['JRSH', 'KEY', 'KEYS', 'KLIC', 'KNX', 'KO', 'KRT', 'KVUE', 'LAKE', 'LCII', 'LEA', 'LESL', 'LE', 'LII', 'LMB', 'LNG', 'LNKB', 'LUMN', 'LVLU', 'LXFR'] completed in 1.29 seconds.
+2026-07-02 07:41:28,315 - ERROR - Latest price for LNKB is NaN or None. Using most recent non-NaN price: 8.6899995803833 (date: 2026-05-04 00:00:00)
+2026-07-02 07:41:33,358 - INFO - API request: yf.download(batch=['LYB', 'LYV', 'L', 'MAMO', 'MAR', 'MCB', 'MCW', 'MCY', 'MDU', 'MD', 'MEG', 'MELI', 'MET', 'MGRC', 'MKL', 'MLNK', 'MNTK', 'MOH', 'MOS', 'MPTI'], period='5y', interval='1d', group_by='ticker', progress=False, auto_adjust=False)
+2026-07-02 07:41:34,679 - ERROR - 
+1 Failed download:
+2026-07-02 07:41:34,679 - ERROR - ['MLNK']: YFPricesMissingError('possibly delisted; no price data found  (period=5y) (Yahoo error = "No data found, symbol may be delisted")')
+2026-07-02 07:41:34,730 - INFO - API request for batch ['LYB', 'LYV', 'L', 'MAMO', 'MAR', 'MCB', 'MCW', 'MCY', 'MDU', 'MD', 'MEG', 'MELI', 'MET', 'MGRC', 'MKL', 'MLNK', 'MNTK', 'MOH', 'MOS', 'MPTI'] completed in 1.37 seconds.
+2026-07-02 07:41:34,829 - ERROR - Latest price for MCW is NaN or None. Using most recent non-NaN price: 7.099999904632568 (date: 2026-06-08 00:00:00)
+2026-07-02 07:41:34,887 - ERROR - Latest price for MEG is NaN or None. Using most recent non-NaN price: 20.040000915527344 (date: 2026-06-26 00:00:00)
+2026-07-02 07:41:34,957 - ERROR - Latest price for MLNK is NaN or None. Using most recent non-NaN price: None (date: None)
+2026-07-02 07:41:40,015 - INFO - API request: yf.download(batch=['MRCY', 'MRVL', 'MTCH', 'MTN', 'MTSI', 'M', 'NABL', 'NBBK', 'NBHC', 'NICE', 'XIFR', 'NFBK', 'NFLX', 'NHC', 'NKSH', 'NOG', 'NPK', 'NRG', 'NSSC', 'NSTS'], period='5y', interval='1d', group_by='ticker', progress=False, auto_adjust=False)
+2026-07-02 07:41:41,222 - INFO - API request for batch ['MRCY', 'MRVL', 'MTCH', 'MTN', 'MTSI', 'M', 'NABL', 'NBBK', 'NBHC', 'NICE', 'XIFR', 'NFBK', 'NFLX', 'NHC', 'NKSH', 'NOG', 'NPK', 'NRG', 'NSSC', 'NSTS'] completed in 1.21 seconds.
+2026-07-02 07:41:46,535 - INFO - API request: yf.download(batch=['NTB', 'NVDA', 'NWPP', 'TEAD', 'ODFL', 'OEC', 'OGE', 'OI', 'OLPX', 'OMF', 'OPAD', 'OPBK', 'OPCH', 'OPEN', 'OPY', 'ORRF', 'OVV', 'PAYO', 'PAYX', 'PCB'], period='5y', interval='1d', group_by='ticker', progress=False, auto_adjust=False)
+2026-07-02 07:41:47,664 - INFO - API request for batch ['NTB', 'NVDA', 'NWPP', 'TEAD', 'ODFL', 'OEC', 'OGE', 'OI', 'OLPX', 'OMF', 'OPAD', 'OPBK', 'OPCH', 'OPEN', 'OPY', 'ORRF', 'OVV', 'PAYO', 'PAYX', 'PCB'] completed in 1.13 seconds.
+2026-07-02 07:41:52,957 - INFO - API request: yf.download(batch=['PCOR', 'PDEX', 'PDLB', 'PD', 'PEB', 'PEP', 'PERI', 'PGR', 'PLD', 'PLTK', 'PLUS', 'PNC', 'POST', 'PRAA', 'PRG', 'PRVA', 'PSTL', 'PTEN', 'PVH', 'QDEL'], period='5y', interval='1d', group_by='ticker', progress=False, auto_adjust=False)
+2026-07-02 07:41:54,269 - INFO - API request for batch ['PCOR', 'PDEX', 'PDLB', 'PD', 'PEB', 'PEP', 'PERI', 'PGR', 'PLD', 'PLTK', 'PLUS', 'PNC', 'POST', 'PRAA', 'PRG', 'PRVA', 'PSTL', 'PTEN', 'PVH', 'QDEL'] completed in 1.31 seconds.
+2026-07-02 07:41:59,580 - INFO - API request: yf.download(batch=['QRVO', 'RBA', 'RBKB', 'RGP', 'RLGT', 'RLX', 'RNR', 'ROCK', 'RRBI', 'RSVR', 'RXO', 'RXT', 'RYN', 'SAFE', 'SAFT', 'SAIA', 'SBSI', 'SCVL', 'SEE', 'SIEB'], period='5y', interval='1d', group_by='ticker', progress=False, auto_adjust=False)
+2026-07-02 07:42:01,216 - ERROR - 
+1 Failed download:
+2026-07-02 07:42:01,216 - ERROR - ['SEE']: YFPricesMissingError('possibly delisted; no price data found  (period=5y) (Yahoo error = "No data found, symbol may be delisted")')
+2026-07-02 07:42:01,246 - INFO - API request for batch ['QRVO', 'RBA', 'RBKB', 'RGP', 'RLGT', 'RLX', 'RNR', 'ROCK', 'RRBI', 'RSVR', 'RXO', 'RXT', 'RYN', 'SAFE', 'SAFT', 'SAIA', 'SBSI', 'SCVL', 'SEE', 'SIEB'] completed in 1.67 seconds.
+2026-07-02 07:42:01,504 - ERROR - Latest price for SCVL is NaN or None. Using most recent non-NaN price: 15.949999809265137 (date: 2026-06-26 00:00:00)
+2026-07-02 07:42:01,539 - ERROR - Latest price for SEE is NaN or None. Using most recent non-NaN price: None (date: None)
+2026-07-02 07:42:06,554 - INFO - API request: yf.download(batch=['SMBC', 'SM', 'SNA', 'SND', 'SNEX', 'SOHO', 'SONO', 'STEL', 'SVV', 'SWIM', 'SWKS', 'TALO', 'TBLA', 'TCBK', 'TER', 'TH', 'TMP', 'TREE', 'TRGP', 'TRNS'], period='5y', interval='1d', group_by='ticker', progress=False, auto_adjust=False)
+2026-07-02 07:42:07,759 - ERROR - 
+1 Failed download:
+2026-07-02 07:42:07,759 - ERROR - ['SOHO']: YFPricesMissingError('possibly delisted; no price data found  (period=5y) (Yahoo error = "No data found, symbol may be delisted")')
+2026-07-02 07:42:07,788 - INFO - API request for batch ['SMBC', 'SM', 'SNA', 'SND', 'SNEX', 'SOHO', 'SONO', 'STEL', 'SVV', 'SWIM', 'SWKS', 'TALO', 'TBLA', 'TCBK', 'TER', 'TH', 'TMP', 'TREE', 'TRGP', 'TRNS'] completed in 1.23 seconds.
+2026-07-02 07:42:07,874 - ERROR - Latest price for SOHO is NaN or None. Using most recent non-NaN price: None (date: None)
+2026-07-02 07:42:07,903 - ERROR - Latest price for STEL is NaN or None. Using most recent non-NaN price: 39.689998626708984 (date: 2026-06-26 00:00:00)
+2026-07-02 07:42:13,076 - INFO - API request: yf.download(batch=['TRUP', 'TSCO', 'TSEM', 'TSLA', 'TTMI', 'TUSK', 'TXNM', 'UDR', 'UIS', 'UI', 'ULTA', 'UMBF', 'UPBD', 'UPWK', 'URI', 'USPH', 'UUU', 'VATE', 'VBIX', 'VITL'], period='5y', interval='1d', group_by='ticker', progress=False, auto_adjust=False)
+2026-07-02 07:42:14,222 - INFO - API request for batch ['TRUP', 'TSCO', 'TSEM', 'TSLA', 'TTMI', 'TUSK', 'TXNM', 'UDR', 'UIS', 'UI', 'ULTA', 'UMBF', 'UPBD', 'UPWK', 'URI', 'USPH', 'UUU', 'VATE', 'VBIX', 'VITL'] completed in 1.15 seconds.
+2026-07-02 07:42:14,518 - ERROR - Latest price for VBIX is NaN or None. Using most recent non-NaN price: 5.690000057220459 (date: 2026-06-26 00:00:00)
+2026-07-02 07:42:19,533 - INFO - API request: yf.download(batch=['VLO', 'VMD', 'VNDA', 'VRSN', 'VSCO', 'VST', 'VTOL', 'VZ', 'WCN', 'WEN', 'WEX', 'WHLR', 'WH', 'WING', 'WLFC', 'WMT', 'WOR', 'WOW', 'WSBC', 'WS'], period='5y', interval='1d', group_by='ticker', progress=False, auto_adjust=False)
+2026-07-02 07:42:20,902 - ERROR - 
+1 Failed download:
+2026-07-02 07:42:20,902 - ERROR - ['WOW']: YFPricesMissingError('possibly delisted; no price data found  (period=5y) (Yahoo error = "No data found, symbol may be delisted")')
+2026-07-02 07:42:20,931 - INFO - API request for batch ['VLO', 'VMD', 'VNDA', 'VRSN', 'VSCO', 'VST', 'VTOL', 'VZ', 'WCN', 'WEN', 'WEX', 'WHLR', 'WH', 'WING', 'WLFC', 'WMT', 'WOR', 'WOW', 'WSBC', 'WS'] completed in 1.40 seconds.
+2026-07-02 07:42:21,006 - ERROR - Latest price for VSCO is NaN or None. Using most recent non-NaN price: 88.5 (date: 2026-06-26 00:00:00)
+2026-07-02 07:42:21,192 - ERROR - Latest price for WOW is NaN or None. Using most recent non-NaN price: None (date: None)
+2026-07-02 07:42:26,220 - INFO - API request: yf.download(batch=['WTRG', 'WTW', 'XHR', 'XIN', 'XNET', 'XPEL', 'YORW', 'YUMC', 'ZIMV', 'GTM'], period='5y', interval='1d', group_by='ticker', progress=False, auto_adjust=False)
+2026-07-02 07:42:26,998 - ERROR - 
+2 Failed downloads:
+2026-07-02 07:42:26,998 - ERROR - ['XIN', 'ZIMV']: YFPricesMissingError('possibly delisted; no price data found  (period=5y) (Yahoo error = "No data found, symbol may be delisted")')
+2026-07-02 07:42:27,011 - INFO - API request for batch ['WTRG', 'WTW', 'XHR', 'XIN', 'XNET', 'XPEL', 'YORW', 'YUMC', 'ZIMV', 'GTM'] completed in 0.79 seconds.
+2026-07-02 07:42:27,068 - ERROR - Latest price for XIN is NaN or None. Using most recent non-NaN price: None (date: None)
+2026-07-02 07:42:27,138 - ERROR - Latest price for ZIMV is NaN or None. Using most recent non-NaN price: None (date: None)
+2026-07-02 07:42:32,177 - INFO - Summary JSON created: public/companies-data/companies.json
+2026-07-02 07:42:32,177 - INFO - Script completed in 132.36 seconds.
+2026-07-02 07:42:32,177 - INFO - API batches processed: 20
+2026-07-02 07:42:32,177 - INFO - Company JSON files created: 390
