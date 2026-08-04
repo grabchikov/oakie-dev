@@ -135064,3 +135064,879 @@
 2026-08-04 03:01:52,676 - INFO - Script completed in 144.25 seconds.
 2026-08-04 03:01:52,676 - INFO - API batches processed: 20
 2026-08-04 03:01:52,676 - INFO - Company JSON files created: 390
+2026-08-04 06:35:07,059 - INFO - Script started.
+2026-08-04 06:35:07,060 - INFO - Deleted old details file: public/companies-data/details/DNUT.json
+2026-08-04 06:35:07,060 - INFO - Deleted old details file: public/companies-data/details/LII.json
+2026-08-04 06:35:07,060 - INFO - Deleted old details file: public/companies-data/details/ALEX.json
+2026-08-04 06:35:07,060 - INFO - Deleted old details file: public/companies-data/details/RXT.json
+2026-08-04 06:35:07,060 - INFO - Deleted old details file: public/companies-data/details/MLNK.json
+2026-08-04 06:35:07,061 - INFO - Deleted old details file: public/companies-data/details/NHC.json
+2026-08-04 06:35:07,061 - INFO - Deleted old details file: public/companies-data/details/XNET.json
+2026-08-04 06:35:07,061 - INFO - Deleted old details file: public/companies-data/details/CHX.json
+2026-08-04 06:35:07,061 - INFO - Deleted old details file: public/companies-data/details/MAR.json
+2026-08-04 06:35:07,061 - INFO - Deleted old details file: public/companies-data/details/PNC.json
+2026-08-04 06:35:07,061 - INFO - Deleted old details file: public/companies-data/details/MOS.json
+2026-08-04 06:35:07,061 - INFO - Deleted old details file: public/companies-data/details/VZ.json
+2026-08-04 06:35:07,061 - INFO - Deleted old details file: public/companies-data/details/CBU.json
+2026-08-04 06:35:07,061 - INFO - Deleted old details file: public/companies-data/details/SNA.json
+2026-08-04 06:35:07,061 - INFO - Deleted old details file: public/companies-data/details/VTOL.json
+2026-08-04 06:35:07,061 - INFO - Deleted old details file: public/companies-data/details/CAR.json
+2026-08-04 06:35:07,061 - INFO - Deleted old details file: public/companies-data/details/STEL.json
+2026-08-04 06:35:07,061 - INFO - Deleted old details file: public/companies-data/details/CFFN.json
+2026-08-04 06:35:07,061 - INFO - Deleted old details file: public/companies-data/details/AMWD.json
+2026-08-04 06:35:07,061 - INFO - Deleted old details file: public/companies-data/details/TRUP.json
+2026-08-04 06:35:07,061 - INFO - Deleted old details file: public/companies-data/details/HAYW.json
+2026-08-04 06:35:07,061 - INFO - Deleted old details file: public/companies-data/details/FRPH.json
+2026-08-04 06:35:07,061 - INFO - Deleted old details file: public/companies-data/details/KEYS.json
+2026-08-04 06:35:07,062 - INFO - Deleted old details file: public/companies-data/details/WHLR.json
+2026-08-04 06:35:07,062 - INFO - Deleted old details file: public/companies-data/details/GNL.json
+2026-08-04 06:35:07,062 - INFO - Deleted old details file: public/companies-data/details/GLW.json
+2026-08-04 06:35:07,062 - INFO - Deleted old details file: public/companies-data/details/KNX.json
+2026-08-04 06:35:07,062 - INFO - Deleted old details file: public/companies-data/details/NFLX.json
+2026-08-04 06:35:07,062 - INFO - Deleted old details file: public/companies-data/details/CMPR.json
+2026-08-04 06:35:07,062 - INFO - Deleted old details file: public/companies-data/details/RSVR.json
+2026-08-04 06:35:07,062 - INFO - Deleted old details file: public/companies-data/details/ITRN.json
+2026-08-04 06:35:07,062 - INFO - Deleted old details file: public/companies-data/details/AKA.json
+2026-08-04 06:35:07,062 - INFO - Deleted old details file: public/companies-data/details/IESC.json
+2026-08-04 06:35:07,062 - INFO - Deleted old details file: public/companies-data/details/AAON.json
+2026-08-04 06:35:07,062 - INFO - Deleted old details file: public/companies-data/details/M.json
+2026-08-04 06:35:07,062 - INFO - Deleted old details file: public/companies-data/details/GSL.json
+2026-08-04 06:35:07,062 - INFO - Deleted old details file: public/companies-data/details/UMBF.json
+2026-08-04 06:35:07,062 - INFO - Deleted old details file: public/companies-data/details/KLIC.json
+2026-08-04 06:35:07,062 - INFO - Deleted old details file: public/companies-data/details/EOG.json
+2026-08-04 06:35:07,062 - INFO - Deleted old details file: public/companies-data/details/ATR.json
+2026-08-04 06:35:07,062 - INFO - Deleted old details file: public/companies-data/details/CRNC.json
+2026-08-04 06:35:07,062 - INFO - Deleted old details file: public/companies-data/details/WH.json
+2026-08-04 06:35:07,062 - INFO - Deleted old details file: public/companies-data/details/AXL.json
+2026-08-04 06:35:07,063 - INFO - Deleted old details file: public/companies-data/details/CWCO.json
+2026-08-04 06:35:07,063 - INFO - Deleted old details file: public/companies-data/details/YORW.json
+2026-08-04 06:35:07,063 - INFO - Deleted old details file: public/companies-data/details/URI.json
+2026-08-04 06:35:07,063 - INFO - Deleted old details file: public/companies-data/details/PRG.json
+2026-08-04 06:35:07,063 - INFO - Deleted old details file: public/companies-data/details/MTSI.json
+2026-08-04 06:35:07,063 - INFO - Deleted old details file: public/companies-data/details/IRDM.json
+2026-08-04 06:35:07,063 - INFO - Deleted old details file: public/companies-data/details/SAFE.json
+2026-08-04 06:35:07,063 - INFO - Deleted old details file: public/companies-data/details/EHAB.json
+2026-08-04 06:35:07,063 - INFO - Deleted old details file: public/companies-data/details/USPH.json
+2026-08-04 06:35:07,063 - INFO - Deleted old details file: public/companies-data/details/GPK.json
+2026-08-04 06:35:07,063 - INFO - Deleted old details file: public/companies-data/details/EE.json
+2026-08-04 06:35:07,063 - INFO - Deleted old details file: public/companies-data/details/BRT.json
+2026-08-04 06:35:07,063 - INFO - Deleted old details file: public/companies-data/details/ACA.json
+2026-08-04 06:35:07,063 - INFO - Deleted old details file: public/companies-data/details/TRNS.json
+2026-08-04 06:35:07,063 - INFO - Deleted old details file: public/companies-data/details/NTB.json
+2026-08-04 06:35:07,063 - INFO - Deleted old details file: public/companies-data/details/TREE.json
+2026-08-04 06:35:07,063 - INFO - Deleted old details file: public/companies-data/details/RXO.json
+2026-08-04 06:35:07,063 - INFO - Deleted old details file: public/companies-data/details/ORRF.json
+2026-08-04 06:35:07,064 - INFO - Deleted old details file: public/companies-data/details/TEAD.json
+2026-08-04 06:35:07,064 - INFO - Deleted old details file: public/companies-data/details/AMTM.json
+2026-08-04 06:35:07,064 - INFO - Deleted old details file: public/companies-data/details/AIRS.json
+2026-08-04 06:35:07,064 - INFO - Deleted old details file: public/companies-data/details/CNP.json
+2026-08-04 06:35:07,064 - INFO - Deleted old details file: public/companies-data/details/UIS.json
+2026-08-04 06:35:07,064 - INFO - Deleted old details file: public/companies-data/details/FULT.json
+2026-08-04 06:35:07,064 - INFO - Deleted old details file: public/companies-data/details/BDC.json
+2026-08-04 06:35:07,064 - INFO - Deleted old details file: public/companies-data/details/INTA.json
+2026-08-04 06:35:07,064 - INFO - Deleted old details file: public/companies-data/details/TSEM.json
+2026-08-04 06:35:07,064 - INFO - Deleted old details file: public/companies-data/details/COF.json
+2026-08-04 06:35:07,064 - INFO - Deleted old details file: public/companies-data/details/GXO.json
+2026-08-04 06:35:07,064 - INFO - Deleted old details file: public/companies-data/details/ATGE.json
+2026-08-04 06:35:07,064 - INFO - Deleted old details file: public/companies-data/details/ADBE.json
+2026-08-04 06:35:07,064 - INFO - Deleted old details file: public/companies-data/details/BRBR.json
+2026-08-04 06:35:07,064 - INFO - Deleted old details file: public/companies-data/details/HDSN.json
+2026-08-04 06:35:07,064 - INFO - Deleted old details file: public/companies-data/details/UPBD.json
+2026-08-04 06:35:07,064 - INFO - Deleted old details file: public/companies-data/details/DOCU.json
+2026-08-04 06:35:07,064 - INFO - Deleted old details file: public/companies-data/details/LUMN.json
+2026-08-04 06:35:07,064 - INFO - Deleted old details file: public/companies-data/details/HWKN.json
+2026-08-04 06:35:07,064 - INFO - Deleted old details file: public/companies-data/details/TXNM.json
+2026-08-04 06:35:07,064 - INFO - Deleted old details file: public/companies-data/details/JAMF.json
+2026-08-04 06:35:07,065 - INFO - Deleted old details file: public/companies-data/details/RLX.json
+2026-08-04 06:35:07,065 - INFO - Deleted old details file: public/companies-data/details/HNRG.json
+2026-08-04 06:35:07,065 - INFO - Deleted old details file: public/companies-data/details/FLO.json
+2026-08-04 06:35:07,065 - INFO - Deleted old details file: public/companies-data/details/FE.json
+2026-08-04 06:35:07,065 - INFO - Deleted old details file: public/companies-data/details/MRCY.json
+2026-08-04 06:35:07,065 - INFO - Deleted old details file: public/companies-data/details/FVRR.json
+2026-08-04 06:35:07,065 - INFO - Deleted old details file: public/companies-data/details/ENVA.json
+2026-08-04 06:35:07,065 - INFO - Deleted old details file: public/companies-data/details/XHR.json
+2026-08-04 06:35:07,065 - INFO - Deleted old details file: public/companies-data/details/PEB.json
+2026-08-04 06:35:07,065 - INFO - Deleted old details file: public/companies-data/details/ALG.json
+2026-08-04 06:35:07,065 - INFO - Deleted old details file: public/companies-data/details/EEFT.json
+2026-08-04 06:35:07,065 - INFO - Deleted old details file: public/companies-data/details/AHH.json
+2026-08-04 06:35:07,065 - INFO - Deleted old details file: public/companies-data/details/FFWM.json
+2026-08-04 06:35:07,065 - INFO - Deleted old details file: public/companies-data/details/COLD.json
+2026-08-04 06:35:07,065 - INFO - Deleted old details file: public/companies-data/details/ALTG.json
+2026-08-04 06:35:07,065 - INFO - Deleted old details file: public/companies-data/details/HRMY.json
+2026-08-04 06:35:07,065 - INFO - Deleted old details file: public/companies-data/details/RBA.json
+2026-08-04 06:35:07,065 - INFO - Deleted old details file: public/companies-data/details/EVCM.json
+2026-08-04 06:35:07,065 - INFO - Deleted old details file: public/companies-data/details/FN.json
+2026-08-04 06:35:07,065 - INFO - Deleted old details file: public/companies-data/details/NICE.json
+2026-08-04 06:35:07,066 - INFO - Deleted old details file: public/companies-data/details/PD.json
+2026-08-04 06:35:07,066 - INFO - Deleted old details file: public/companies-data/details/INTU.json
+2026-08-04 06:35:07,066 - INFO - Deleted old details file: public/companies-data/details/ALLY.json
+2026-08-04 06:35:07,066 - INFO - Deleted old details file: public/companies-data/details/CPAY.json
+2026-08-04 06:35:07,066 - INFO - Deleted old details file: public/companies-data/details/ASGN.json
+2026-08-04 06:35:07,066 - INFO - Deleted old details file: public/companies-data/details/RRBI.json
+2026-08-04 06:35:07,066 - INFO - Deleted old details file: public/companies-data/details/ARRY.json
+2026-08-04 06:35:07,066 - INFO - Deleted old details file: public/companies-data/details/DHX.json
+2026-08-04 06:35:07,066 - INFO - Deleted old details file: public/companies-data/details/GTM.json
+2026-08-04 06:35:07,066 - INFO - Deleted old details file: public/companies-data/details/PTEN.json
+2026-08-04 06:35:07,066 - INFO - Deleted old details file: public/companies-data/details/FCN.json
+2026-08-04 06:35:07,066 - INFO - Deleted old details file: public/companies-data/details/DTM.json
+2026-08-04 06:35:07,066 - INFO - Deleted old details file: public/companies-data/details/CVLT.json
+2026-08-04 06:35:07,066 - INFO - Deleted old details file: public/companies-data/details/NPK.json
+2026-08-04 06:35:07,066 - INFO - Deleted old details file: public/companies-data/details/OGE.json
+2026-08-04 06:35:07,066 - INFO - Deleted old details file: public/companies-data/details/JRSH.json
+2026-08-04 06:35:07,066 - INFO - Deleted old details file: public/companies-data/details/OPEN.json
+2026-08-04 06:35:07,066 - INFO - Deleted old details file: public/companies-data/details/PCOR.json
+2026-08-04 06:35:07,066 - INFO - Deleted old details file: public/companies-data/details/MTN.json
+2026-08-04 06:35:07,066 - INFO - Deleted old details file: public/companies-data/details/PDEX.json
+2026-08-04 06:35:07,066 - INFO - Deleted old details file: public/companies-data/details/GTIM.json
+2026-08-04 06:35:07,067 - INFO - Deleted old details file: public/companies-data/details/HOG.json
+2026-08-04 06:35:07,067 - INFO - Deleted old details file: public/companies-data/details/LYB.json
+2026-08-04 06:35:07,067 - INFO - Deleted old details file: public/companies-data/details/LVLU.json
+2026-08-04 06:35:07,067 - INFO - Deleted old details file: public/companies-data/details/PLUS.json
+2026-08-04 06:35:07,067 - INFO - Deleted old details file: public/companies-data/details/PLD.json
+2026-08-04 06:35:07,067 - INFO - Deleted old details file: public/companies-data/details/APOG.json
+2026-08-04 06:35:07,067 - INFO - Deleted old details file: public/companies-data/details/HP.json
+2026-08-04 06:35:07,067 - INFO - Deleted old details file: public/companies-data/details/WOR.json
+2026-08-04 06:35:07,067 - INFO - Deleted old details file: public/companies-data/details/COOK.json
+2026-08-04 06:35:07,067 - INFO - Deleted old details file: public/companies-data/details/CBRE.json
+2026-08-04 06:35:07,067 - INFO - Deleted old details file: public/companies-data/details/MD.json
+2026-08-04 06:35:07,067 - INFO - Deleted old details file: public/companies-data/details/ESQ.json
+2026-08-04 06:35:07,067 - INFO - Deleted old details file: public/companies-data/details/COST.json
+2026-08-04 06:35:07,067 - INFO - Deleted old details file: public/companies-data/details/AMED.json
+2026-08-04 06:35:07,067 - INFO - Deleted old details file: public/companies-data/details/SNEX.json
+2026-08-04 06:35:07,067 - INFO - Deleted old details file: public/companies-data/details/OI.json
+2026-08-04 06:35:07,067 - INFO - Deleted old details file: public/companies-data/details/LYV.json
+2026-08-04 06:35:07,067 - INFO - Deleted old details file: public/companies-data/details/BJ.json
+2026-08-04 06:35:07,067 - INFO - Deleted old details file: public/companies-data/details/WTW.json
+2026-08-04 06:35:07,067 - INFO - Deleted old details file: public/companies-data/details/DPZ.json
+2026-08-04 06:35:07,067 - INFO - Deleted old details file: public/companies-data/details/CCCS.json
+2026-08-04 06:35:07,068 - INFO - Deleted old details file: public/companies-data/details/FIX.json
+2026-08-04 06:35:07,068 - INFO - Deleted old details file: public/companies-data/details/ACU.json
+2026-08-04 06:35:07,068 - INFO - Deleted old details file: public/companies-data/details/JLL.json
+2026-08-04 06:35:07,068 - INFO - Deleted old details file: public/companies-data/details/PRAA.json
+2026-08-04 06:35:07,068 - INFO - Deleted old details file: public/companies-data/details/VNDA.json
+2026-08-04 06:35:07,068 - INFO - Deleted old details file: public/companies-data/details/GTX.json
+2026-08-04 06:35:07,068 - INFO - Deleted old details file: public/companies-data/details/LCII.json
+2026-08-04 06:35:07,068 - INFO - Deleted old details file: public/companies-data/details/FNMA.json
+2026-08-04 06:35:07,068 - INFO - Deleted old details file: public/companies-data/details/KVUE.json
+2026-08-04 06:35:07,068 - INFO - Deleted old details file: public/companies-data/details/VLO.json
+2026-08-04 06:35:07,068 - INFO - Deleted old details file: public/companies-data/details/UDR.json
+2026-08-04 06:35:07,068 - INFO - Deleted old details file: public/companies-data/details/CERT.json
+2026-08-04 06:35:07,068 - INFO - Deleted old details file: public/companies-data/details/RLGT.json
+2026-08-04 06:35:07,068 - INFO - Deleted old details file: public/companies-data/details/COFS.json
+2026-08-04 06:35:07,068 - INFO - Deleted old details file: public/companies-data/details/WOW.json
+2026-08-04 06:35:07,068 - INFO - Deleted old details file: public/companies-data/details/FIZZ.json
+2026-08-04 06:35:07,068 - INFO - Deleted old details file: public/companies-data/details/NRG.json
+2026-08-04 06:35:07,068 - INFO - Deleted old details file: public/companies-data/details/ACDC.json
+2026-08-04 06:35:07,068 - INFO - Deleted old details file: public/companies-data/details/UI.json
+2026-08-04 06:35:07,068 - INFO - Deleted old details file: public/companies-data/details/D.json
+2026-08-04 06:35:07,068 - INFO - Deleted old details file: public/companies-data/details/CSPI.json
+2026-08-04 06:35:07,069 - INFO - Deleted old details file: public/companies-data/details/SEE.json
+2026-08-04 06:35:07,069 - INFO - Deleted old details file: public/companies-data/details/SOHO.json
+2026-08-04 06:35:07,069 - INFO - Deleted old details file: public/companies-data/details/NKSH.json
+2026-08-04 06:35:07,069 - INFO - Deleted old details file: public/companies-data/details/FTI.json
+2026-08-04 06:35:07,069 - INFO - Deleted old details file: public/companies-data/details/CTRA.json
+2026-08-04 06:35:07,069 - INFO - Deleted old details file: public/companies-data/details/CTBI.json
+2026-08-04 06:35:07,069 - INFO - Deleted old details file: public/companies-data/details/TER.json
+2026-08-04 06:35:07,069 - INFO - Deleted old details file: public/companies-data/details/GO.json
+2026-08-04 06:35:07,069 - INFO - Deleted old details file: public/companies-data/details/FVCB.json
+2026-08-04 06:35:07,069 - INFO - Deleted old details file: public/companies-data/details/HLMN.json
+2026-08-04 06:35:07,069 - INFO - Deleted old details file: public/companies-data/details/VBIX.json
+2026-08-04 06:35:07,069 - INFO - Deleted old details file: public/companies-data/details/PSTL.json
+2026-08-04 06:35:07,069 - INFO - Deleted old details file: public/companies-data/details/IGT.json
+2026-08-04 06:35:07,069 - INFO - Deleted old details file: public/companies-data/details/NBBK.json
+2026-08-04 06:35:07,069 - INFO - Deleted old details file: public/companies-data/details/CTM.json
+2026-08-04 06:35:07,069 - INFO - Deleted old details file: public/companies-data/details/EPRT.json
+2026-08-04 06:35:07,069 - INFO - Deleted old details file: public/companies-data/details/VSCO.json
+2026-08-04 06:35:07,069 - INFO - Deleted old details file: public/companies-data/details/SVV.json
+2026-08-04 06:35:07,069 - INFO - Deleted old details file: public/companies-data/details/NHPAP.json
+2026-08-04 06:35:07,069 - INFO - Deleted old details file: public/companies-data/details/EME.json
+2026-08-04 06:35:07,069 - INFO - Deleted old details file: public/companies-data/details/AVTR.json
+2026-08-04 06:35:07,069 - INFO - Deleted old details file: public/companies-data/details/SONO.json
+2026-08-04 06:35:07,070 - INFO - Deleted old details file: public/companies-data/details/NSSC.json
+2026-08-04 06:35:07,070 - INFO - Deleted old details file: public/companies-data/details/WSBC.json
+2026-08-04 06:35:07,070 - INFO - Deleted old details file: public/companies-data/details/CP.json
+2026-08-04 06:35:07,070 - INFO - Deleted old details file: public/companies-data/details/PAYO.json
+2026-08-04 06:35:07,070 - INFO - Deleted old details file: public/companies-data/details/COR.json
+2026-08-04 06:35:07,070 - INFO - Deleted old details file: public/companies-data/details/TSLA.json
+2026-08-04 06:35:07,070 - INFO - Deleted old details file: public/companies-data/details/OPAD.json
+2026-08-04 06:35:07,070 - INFO - Deleted old details file: public/companies-data/details/MCY.json
+2026-08-04 06:35:07,070 - INFO - Deleted old details file: public/companies-data/details/WMT.json
+2026-08-04 06:35:07,070 - INFO - Deleted old details file: public/companies-data/details/BX.json
+2026-08-04 06:35:07,070 - INFO - Deleted old details file: public/companies-data/details/WEX.json
+2026-08-04 06:35:07,070 - INFO - Deleted old details file: public/companies-data/details/CLB.json
+2026-08-04 06:35:07,070 - INFO - Deleted old details file: public/companies-data/details/BOSC.json
+2026-08-04 06:35:07,070 - INFO - Deleted old details file: public/companies-data/details/CI.json
+2026-08-04 06:35:07,070 - INFO - Deleted old details file: public/companies-data/details/ADEA.json
+2026-08-04 06:35:07,070 - INFO - Deleted old details file: public/companies-data/details/NVDA.json
+2026-08-04 06:35:07,070 - INFO - Deleted old details file: public/companies-data/details/JMSB.json
+2026-08-04 06:35:07,070 - INFO - Deleted old details file: public/companies-data/details/INFU.json
+2026-08-04 06:35:07,070 - INFO - Deleted old details file: public/companies-data/details/NABL.json
+2026-08-04 06:35:07,070 - INFO - Deleted old details file: public/companies-data/details/OLPX.json
+2026-08-04 06:35:07,071 - INFO - Deleted old details file: public/companies-data/details/VMD.json
+2026-08-04 06:35:07,071 - INFO - Deleted old details file: public/companies-data/details/LAKE.json
+2026-08-04 06:35:07,071 - INFO - Deleted old details file: public/companies-data/details/BDN.json
+2026-08-04 06:35:07,071 - INFO - Deleted old details file: public/companies-data/details/GILT.json
+2026-08-04 06:35:07,071 - INFO - Deleted old details file: public/companies-data/details/NOG.json
+2026-08-04 06:35:07,071 - INFO - Deleted old details file: public/companies-data/details/TALO.json
+2026-08-04 06:35:07,071 - INFO - Deleted old details file: public/companies-data/details/HPQ.json
+2026-08-04 06:35:07,071 - INFO - Deleted old details file: public/companies-data/details/AEP.json
+2026-08-04 06:35:07,071 - INFO - Deleted old details file: public/companies-data/details/TTMI.json
+2026-08-04 06:35:07,071 - INFO - Deleted old details file: public/companies-data/details/CRC.json
+2026-08-04 06:35:07,071 - INFO - Deleted old details file: public/companies-data/details/BKU.json
+2026-08-04 06:35:07,071 - INFO - Deleted old details file: public/companies-data/details/TUSK.json
+2026-08-04 06:35:07,071 - INFO - Deleted old details file: public/companies-data/details/DV.json
+2026-08-04 06:35:07,071 - INFO - Deleted old details file: public/companies-data/details/NFBK.json
+2026-08-04 06:35:07,071 - INFO - Deleted old details file: public/companies-data/details/AX.json
+2026-08-04 06:35:07,071 - INFO - Deleted old details file: public/companies-data/details/MEG.json
+2026-08-04 06:35:07,071 - INFO - Deleted old details file: public/companies-data/details/NSTS.json
+2026-08-04 06:35:07,071 - INFO - Deleted old details file: public/companies-data/details/XIFR.json
+2026-08-04 06:35:07,071 - INFO - Deleted old details file: public/companies-data/details/QDEL.json
+2026-08-04 06:35:07,072 - INFO - Deleted old details file: public/companies-data/details/SAFT.json
+2026-08-04 06:35:07,072 - INFO - Deleted old details file: public/companies-data/details/PEP.json
+2026-08-04 06:35:07,072 - INFO - Deleted old details file: public/companies-data/details/SND.json
+2026-08-04 06:35:07,072 - INFO - Deleted old details file: public/companies-data/details/CURV.json
+2026-08-04 06:35:07,072 - INFO - Deleted old details file: public/companies-data/details/MGRC.json
+2026-08-04 06:35:07,072 - INFO - Deleted old details file: public/companies-data/details/FC.json
+2026-08-04 06:35:07,072 - INFO - Deleted old details file: public/companies-data/details/PLTK.json
+2026-08-04 06:35:07,072 - INFO - Deleted old details file: public/companies-data/details/SAIA.json
+2026-08-04 06:35:07,072 - INFO - Deleted old details file: public/companies-data/details/FTRE.json
+2026-08-04 06:35:07,072 - INFO - Deleted old details file: public/companies-data/details/FISI.json
+2026-08-04 06:35:07,072 - INFO - Deleted old details file: public/companies-data/details/PVH.json
+2026-08-04 06:35:07,072 - INFO - Deleted old details file: public/companies-data/details/PCB.json
+2026-08-04 06:35:07,072 - INFO - Deleted old details file: public/companies-data/details/RGP.json
+2026-08-04 06:35:07,072 - INFO - Deleted old details file: public/companies-data/details/CLF.json
+2026-08-04 06:35:07,072 - INFO - Deleted old details file: public/companies-data/details/CZFS.json
+2026-08-04 06:35:07,072 - INFO - Deleted old details file: public/companies-data/details/PERI.json
+2026-08-04 06:35:07,072 - INFO - Deleted old details file: public/companies-data/details/CLBK.json
+2026-08-04 06:35:07,072 - INFO - Deleted old details file: public/companies-data/details/WLFC.json
+2026-08-04 06:35:07,072 - INFO - Deleted old details file: public/companies-data/details/TMP.json
+2026-08-04 06:35:07,072 - INFO - Deleted old details file: public/companies-data/details/CTO.json
+2026-08-04 06:35:07,072 - INFO - Deleted old details file: public/companies-data/details/LE.json
+2026-08-04 06:35:07,073 - INFO - Deleted old details file: public/companies-data/details/BBCP.json
+2026-08-04 06:35:07,073 - INFO - Deleted old details file: public/companies-data/details/UUU.json
+2026-08-04 06:35:07,073 - INFO - Deleted old details file: public/companies-data/details/AOUT.json
+2026-08-04 06:35:07,073 - INFO - Deleted old details file: public/companies-data/details/BIGGQ.json
+2026-08-04 06:35:07,073 - INFO - Deleted old details file: public/companies-data/details/KMI.json
+2026-08-04 06:35:07,073 - INFO - Deleted old details file: public/companies-data/details/BRN.json
+2026-08-04 06:35:07,073 - INFO - Deleted old details file: public/companies-data/details/WS.json
+2026-08-04 06:35:07,073 - INFO - Deleted old details file: public/companies-data/details/CTOS.json
+2026-08-04 06:35:07,073 - INFO - Deleted old details file: public/companies-data/details/EAT.json
+2026-08-04 06:35:07,073 - INFO - Deleted old details file: public/companies-data/details/DLTR.json
+2026-08-04 06:35:07,073 - INFO - Deleted old details file: public/companies-data/details/CHH.json
+2026-08-04 06:35:07,073 - INFO - Deleted old details file: public/companies-data/details/IEX.json
+2026-08-04 06:35:07,073 - INFO - Deleted old details file: public/companies-data/details/FYBR.json
+2026-08-04 06:35:07,073 - INFO - Deleted old details file: public/companies-data/details/SM.json
+2026-08-04 06:35:07,073 - INFO - Deleted old details file: public/companies-data/details/PGR.json
+2026-08-04 06:35:07,073 - INFO - Deleted old details file: public/companies-data/details/MKL.json
+2026-08-04 06:35:07,073 - INFO - Deleted old details file: public/companies-data/details/ZIMV.json
+2026-08-04 06:35:07,073 - INFO - Deleted old details file: public/companies-data/details/MTCH.json
+2026-08-04 06:35:07,073 - INFO - Deleted old details file: public/companies-data/details/ULTA.json
+2026-08-04 06:35:07,073 - INFO - Deleted old details file: public/companies-data/details/TSCO.json
+2026-08-04 06:35:07,073 - INFO - Deleted old details file: public/companies-data/details/AXTA.json
+2026-08-04 06:35:07,074 - INFO - Deleted old details file: public/companies-data/details/XIN.json
+2026-08-04 06:35:07,074 - INFO - Deleted old details file: public/companies-data/details/KO.json
+2026-08-04 06:35:07,074 - INFO - Deleted old details file: public/companies-data/details/VRSN.json
+2026-08-04 06:35:07,074 - INFO - Deleted old details file: public/companies-data/details/WTRG.json
+2026-08-04 06:35:07,074 - INFO - Deleted old details file: public/companies-data/details/HOLX.json
+2026-08-04 06:35:07,074 - INFO - Deleted old details file: public/companies-data/details/KEY.json
+2026-08-04 06:35:07,074 - INFO - Deleted old details file: public/companies-data/details/BLCO.json
+2026-08-04 06:35:07,074 - INFO - Deleted old details file: public/companies-data/details/LMB.json
+2026-08-04 06:35:07,074 - INFO - Deleted old details file: public/companies-data/details/FANG.json
+2026-08-04 06:35:07,074 - INFO - Deleted old details file: public/companies-data/details/ETWO.json
+2026-08-04 06:35:07,074 - INFO - Deleted old details file: public/companies-data/details/RNR.json
+2026-08-04 06:35:07,074 - INFO - Deleted old details file: public/companies-data/details/MCW.json
+2026-08-04 06:35:07,074 - INFO - Deleted old details file: public/companies-data/details/OMF.json
+2026-08-04 06:35:07,074 - INFO - Deleted old details file: public/companies-data/details/CASH.json
+2026-08-04 06:35:07,074 - INFO - Deleted old details file: public/companies-data/details/DGII.json
+2026-08-04 06:35:07,074 - INFO - Deleted old details file: public/companies-data/details/VITL.json
+2026-08-04 06:35:07,074 - INFO - Deleted old details file: public/companies-data/details/HPK.json
+2026-08-04 06:35:07,074 - INFO - Deleted old details file: public/companies-data/details/RYN.json
+2026-08-04 06:35:07,074 - INFO - Deleted old details file: public/companies-data/details/BKNG.json
+2026-08-04 06:35:07,074 - INFO - Deleted old details file: public/companies-data/details/TRGP.json
+2026-08-04 06:35:07,074 - INFO - Deleted old details file: public/companies-data/details/ATO.json
+2026-08-04 06:35:07,075 - INFO - Deleted old details file: public/companies-data/details/ALGM.json
+2026-08-04 06:35:07,075 - INFO - Deleted old details file: public/companies-data/details/AAME.json
+2026-08-04 06:35:07,075 - INFO - Deleted old details file: public/companies-data/details/MRVL.json
+2026-08-04 06:35:07,075 - INFO - Deleted old details file: public/companies-data/details/ACLS.json
+2026-08-04 06:35:07,075 - INFO - Deleted old details file: public/companies-data/details/RBKB.json
+2026-08-04 06:35:07,075 - INFO - Deleted old details file: public/companies-data/details/LESL.json
+2026-08-04 06:35:07,075 - INFO - Deleted old details file: public/companies-data/details/DHAI.json
+2026-08-04 06:35:07,075 - INFO - Deleted old details file: public/companies-data/details/PDLB.json
+2026-08-04 06:35:07,075 - INFO - Deleted old details file: public/companies-data/details/ANF.json
+2026-08-04 06:35:07,075 - INFO - Deleted old details file: public/companies-data/details/BATL.json
+2026-08-04 06:35:07,075 - INFO - Deleted old details file: public/companies-data/details/UPWK.json
+2026-08-04 06:35:07,075 - INFO - Deleted old details file: public/companies-data/details/BHE.json
+2026-08-04 06:35:07,075 - INFO - Deleted old details file: public/companies-data/details/GDEN.json
+2026-08-04 06:35:07,075 - INFO - Deleted old details file: public/companies-data/details/HLT.json
+2026-08-04 06:35:07,075 - INFO - Deleted old details file: public/companies-data/details/CXXIF.json
+2026-08-04 06:35:07,075 - INFO - Deleted old details file: public/companies-data/details/ESTC.json
+2026-08-04 06:35:07,075 - INFO - Deleted old details file: public/companies-data/details/AMR.json
+2026-08-04 06:35:07,075 - INFO - Deleted old details file: public/companies-data/details/LEA.json
+2026-08-04 06:35:07,075 - INFO - Deleted old details file: public/companies-data/details/BTU.json
+2026-08-04 06:35:07,075 - INFO - Deleted old details file: public/companies-data/details/MET.json
+2026-08-04 06:35:07,075 - INFO - Deleted old details file: public/companies-data/details/SWIM.json
+2026-08-04 06:35:07,076 - INFO - Deleted old details file: public/companies-data/details/EVI.json
+2026-08-04 06:35:07,076 - INFO - Deleted old details file: public/companies-data/details/MCB.json
+2026-08-04 06:35:07,076 - INFO - Deleted old details file: public/companies-data/details/CECO.json
+2026-08-04 06:35:07,076 - INFO - Deleted old details file: public/companies-data/details/TCBK.json
+2026-08-04 06:35:07,076 - INFO - Deleted old details file: public/companies-data/details/AZO.json
+2026-08-04 06:35:07,076 - INFO - Deleted old details file: public/companies-data/details/CLMB.json
+2026-08-04 06:35:07,076 - INFO - Deleted old details file: public/companies-data/details/XPEL.json
+2026-08-04 06:35:07,076 - INFO - Deleted old details file: public/companies-data/details/HTBK.json
+2026-08-04 06:35:07,076 - INFO - Deleted old details file: public/companies-data/details/GAP.json
+2026-08-04 06:35:07,076 - INFO - Deleted old details file: public/companies-data/details/DVA.json
+2026-08-04 06:35:07,076 - INFO - Deleted old details file: public/companies-data/details/FERG.json
+2026-08-04 06:35:07,076 - INFO - Deleted old details file: public/companies-data/details/TBLA.json
+2026-08-04 06:35:07,076 - INFO - Deleted old details file: public/companies-data/details/NWPP.json
+2026-08-04 06:35:07,076 - INFO - Deleted old details file: public/companies-data/details/CCSI.json
+2026-08-04 06:35:07,076 - INFO - Deleted old details file: public/companies-data/details/EPAC.json
+2026-08-04 06:35:07,076 - INFO - Deleted old details file: public/companies-data/details/HRTG.json
+2026-08-04 06:35:07,076 - INFO - Deleted old details file: public/companies-data/details/YUMC.json
+2026-08-04 06:35:07,076 - INFO - Deleted old details file: public/companies-data/details/LNG.json
+2026-08-04 06:35:07,076 - INFO - Deleted old details file: public/companies-data/details/OVV.json
+2026-08-04 06:35:07,076 - INFO - Deleted old details file: public/companies-data/details/ODFL.json
+2026-08-04 06:35:07,076 - INFO - Deleted old details file: public/companies-data/details/MPTI.json
+2026-08-04 06:35:07,076 - INFO - Deleted old details file: public/companies-data/details/MNTK.json
+2026-08-04 06:35:07,077 - INFO - Deleted old details file: public/companies-data/details/VST.json
+2026-08-04 06:35:07,077 - INFO - Deleted old details file: public/companies-data/details/CAH.json
+2026-08-04 06:35:07,077 - INFO - Deleted old details file: public/companies-data/details/KRT.json
+2026-08-04 06:35:07,077 - INFO - Deleted old details file: public/companies-data/details/CIVB.json
+2026-08-04 06:35:07,077 - INFO - Deleted old details file: public/companies-data/details/OEC.json
+2026-08-04 06:35:07,077 - INFO - Deleted old details file: public/companies-data/details/MAMO.json
+2026-08-04 06:35:07,077 - INFO - Deleted old details file: public/companies-data/details/L.json
+2026-08-04 06:35:07,077 - INFO - Deleted old details file: public/companies-data/details/NBHC.json
+2026-08-04 06:35:07,077 - INFO - Deleted old details file: public/companies-data/details/AVAH.json
+2026-08-04 06:35:07,077 - INFO - Deleted old details file: public/companies-data/details/FXNC.json
+2026-08-04 06:35:07,077 - INFO - Deleted old details file: public/companies-data/details/FEIM.json
+2026-08-04 06:35:07,077 - INFO - Deleted old details file: public/companies-data/details/ACGL.json
+2026-08-04 06:35:07,077 - INFO - Deleted old details file: public/companies-data/details/ARW.json
+2026-08-04 06:35:07,077 - INFO - Deleted old details file: public/companies-data/details/ROCK.json
+2026-08-04 06:35:07,077 - INFO - Deleted old details file: public/companies-data/details/PRVA.json
+2026-08-04 06:35:07,077 - INFO - Deleted old details file: public/companies-data/details/SIEB.json
+2026-08-04 06:35:07,077 - INFO - Deleted old details file: public/companies-data/details/COP.json
+2026-08-04 06:35:07,077 - INFO - Deleted old details file: public/companies-data/details/OPBK.json
+2026-08-04 06:35:07,077 - INFO - Deleted old details file: public/companies-data/details/DOCN.json
+2026-08-04 06:35:07,077 - INFO - Deleted old details file: public/companies-data/details/CDRE.json
+2026-08-04 06:35:07,077 - INFO - Deleted old details file: public/companies-data/details/INN.json
+2026-08-04 06:35:07,077 - INFO - Deleted old details file: public/companies-data/details/WCN.json
+2026-08-04 06:35:07,078 - INFO - Deleted old details file: public/companies-data/details/WEN.json
+2026-08-04 06:35:07,078 - INFO - Deleted old details file: public/companies-data/details/SMBC.json
+2026-08-04 06:35:07,078 - INFO - Deleted old details file: public/companies-data/details/ENB.json
+2026-08-04 06:35:07,078 - INFO - Deleted old details file: public/companies-data/details/VATE.json
+2026-08-04 06:35:07,078 - INFO - Deleted old details file: public/companies-data/details/CRSR.json
+2026-08-04 06:35:07,078 - INFO - Deleted old details file: public/companies-data/details/GIII.json
+2026-08-04 06:35:07,078 - INFO - Deleted old details file: public/companies-data/details/HLLY.json
+2026-08-04 06:35:07,078 - INFO - Deleted old details file: public/companies-data/details/IROQ.json
+2026-08-04 06:35:07,078 - INFO - Deleted old details file: public/companies-data/details/DT.json
+2026-08-04 06:35:07,078 - INFO - Deleted old details file: public/companies-data/details/TH.json
+2026-08-04 06:35:07,078 - INFO - Deleted old details file: public/companies-data/details/WING.json
+2026-08-04 06:35:07,078 - INFO - Deleted old details file: public/companies-data/details/OPCH.json
+2026-08-04 06:35:07,078 - INFO - Deleted old details file: public/companies-data/details/EBS.json
+2026-08-04 06:35:07,078 - INFO - Deleted old details file: public/companies-data/details/ADV.json
+2026-08-04 06:35:07,078 - INFO - Deleted old details file: public/companies-data/details/AN.json
+2026-08-04 06:35:07,078 - INFO - Deleted old details file: public/companies-data/details/CVI.json
+2026-08-04 06:35:07,078 - INFO - Deleted old details file: public/companies-data/details/MDU.json
+2026-08-04 06:35:07,078 - INFO - Deleted old details file: public/companies-data/details/SBSI.json
+2026-08-04 06:35:07,078 - INFO - Deleted old details file: public/companies-data/details/PAYX.json
+2026-08-04 06:35:07,078 - INFO - Deleted old details file: public/companies-data/details/CSTE.json
+2026-08-04 06:35:07,078 - INFO - Deleted old details file: public/companies-data/details/FLNG.json
+2026-08-04 06:35:07,078 - INFO - Deleted old details file: public/companies-data/details/QRVO.json
+2026-08-04 06:35:07,079 - INFO - Deleted old details file: public/companies-data/details/CIEN.json
+2026-08-04 06:35:07,079 - INFO - Deleted old details file: public/companies-data/details/ITT.json
+2026-08-04 06:35:07,079 - INFO - Deleted old details file: public/companies-data/details/ABBV.json
+2026-08-04 06:35:07,079 - INFO - Deleted old details file: public/companies-data/details/OPY.json
+2026-08-04 06:35:07,079 - INFO - Deleted old details file: public/companies-data/details/SWKS.json
+2026-08-04 06:35:07,079 - INFO - Deleted old details file: public/companies-data/details/POST.json
+2026-08-04 06:35:07,079 - INFO - Deleted old details file: public/companies-data/details/ASRT.json
+2026-08-04 06:35:07,079 - INFO - Deleted old details file: public/companies-data/details/ASO.json
+2026-08-04 06:35:07,079 - INFO - Deleted old details file: public/companies-data/details/SCVL.json
+2026-08-04 06:35:07,079 - INFO - Deleted old details file: public/companies-data/details/EGY.json
+2026-08-04 06:35:07,079 - INFO - Deleted old details file: public/companies-data/details/LNKB.json
+2026-08-04 06:35:07,079 - INFO - Deleted old details file: public/companies-data/details/LXFR.json
+2026-08-04 06:35:07,079 - INFO - Deleted old details file: public/companies-data/details/MELI.json
+2026-08-04 06:35:07,079 - INFO - Deleted old details file: public/companies-data/details/MOH.json
+2026-08-04 06:35:07,079 - INFO - Deleted old summary file: public/companies-data/companies.json
+2026-08-04 06:35:07,558 - INFO - Parsed Excel: 390 companies loaded from sheets ['2023', '2024'].
+2026-08-04 06:35:07,558 - INFO - API request: yf.download(batch=['AAME', 'AAON', 'ABBV', 'ACA', 'ACDC', 'ACGL', 'ACLS', 'ACU', 'ADBE', 'ADEA', 'ADV', 'AEP', 'AHH', 'AIRS', 'AKA', 'ALEX', 'ALGM', 'ALG', 'ALLY', 'ALTG'], period='5y', interval='1d', group_by='ticker', progress=False, auto_adjust=False)
+2026-08-04 06:35:07,560 - INFO - Failed to create TzCache, reason: Error creating TzCache folder: '/home/runner/.cache/py-yfinance' reason: [Errno 17] File exists: '/home/runner/.cache/py-yfinance'. TzCache will not be used. Tip: You can direct cache to use a different location with 'set_tz_cache_location(mylocation)'
+2026-08-04 06:35:07,560 - INFO - Failed to create TzCache, reason: Error creating TzCache folder: '/home/runner/.cache/py-yfinance' reason: [Errno 17] File exists: '/home/runner/.cache/py-yfinance'. TzCache will not be used. Tip: You can direct cache to use a different location with 'set_tz_cache_location(mylocation)'
+2026-08-04 06:35:08,254 - ERROR - HTTP Error 404: 
+2026-08-04 06:35:09,046 - ERROR - HTTP Error 404: 
+2026-08-04 06:35:09,266 - ERROR - 
+2 Failed downloads:
+2026-08-04 06:35:09,267 - ERROR - ['ALEX', 'AHH']: YFPricesMissingError('possibly delisted; no price data found  (period=5y) (Yahoo error = "No data found, symbol may be delisted")')
+2026-08-04 06:35:09,343 - INFO - API request for batch ['AAME', 'AAON', 'ABBV', 'ACA', 'ACDC', 'ACGL', 'ACLS', 'ACU', 'ADBE', 'ADEA', 'ADV', 'AEP', 'AHH', 'AIRS', 'AKA', 'ALEX', 'ALGM', 'ALG', 'ALLY', 'ALTG'] completed in 1.79 seconds.
+2026-08-04 06:35:09,358 - ERROR - Latest price for AAME is NaN or None. Using most recent non-NaN price: 1.5399999618530273 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:09,372 - ERROR - Latest price for AAON is NaN or None. Using most recent non-NaN price: 89.05999755859375 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:09,387 - ERROR - Latest price for ABBV is NaN or None. Using most recent non-NaN price: 250.94000244140625 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:09,401 - ERROR - Latest price for ACA is NaN or None. Using most recent non-NaN price: 145.1999969482422 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:09,415 - ERROR - Latest price for ACDC is NaN or None. Using most recent non-NaN price: 4.039999961853027 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:09,429 - ERROR - Latest price for ACGL is NaN or None. Using most recent non-NaN price: 100.52999877929688 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:09,443 - ERROR - Latest price for ACLS is NaN or None. Using most recent non-NaN price: 130.3800048828125 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:09,457 - ERROR - Latest price for ACU is NaN or None. Using most recent non-NaN price: 56.86000061035156 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:09,471 - ERROR - Latest price for ADBE is NaN or None. Using most recent non-NaN price: 250.41000366210938 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:09,485 - ERROR - Latest price for ADEA is NaN or None. Using most recent non-NaN price: 26.649999618530273 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:09,499 - ERROR - Latest price for ADV is NaN or None. Using most recent non-NaN price: 39.2400016784668 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:09,513 - ERROR - Latest price for AEP is NaN or None. Using most recent non-NaN price: 127.8499984741211 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:09,526 - ERROR - Latest price for AHH is NaN or None. Using most recent non-NaN price: None (date: None)
+2026-08-04 06:35:09,540 - ERROR - Latest price for AIRS is NaN or None. Using most recent non-NaN price: 4.809999942779541 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:09,555 - ERROR - Latest price for AKA is NaN or None. Using most recent non-NaN price: 11.420000076293945 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:09,568 - ERROR - Latest price for ALEX is NaN or None. Using most recent non-NaN price: None (date: None)
+2026-08-04 06:35:09,582 - ERROR - Latest price for ALGM is NaN or None. Using most recent non-NaN price: 41.5 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:09,596 - ERROR - Latest price for ALG is NaN or None. Using most recent non-NaN price: 159.0800018310547 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:09,610 - ERROR - Latest price for ALLY is NaN or None. Using most recent non-NaN price: 43.33000183105469 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:09,624 - ERROR - Latest price for ALTG is NaN or None. Using most recent non-NaN price: 6.579999923706055 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:14,624 - INFO - API request: yf.download(batch=['AMED', 'AMR', 'AMTM', 'AMWD', 'ANF', 'AN', 'AOUT', 'APOG', 'ARRY', 'ARW', 'ASGN', 'ASO', 'ASRT', 'ATGE', 'ATO', 'ATR', 'AVAH', 'AVTR', 'AXL', 'AXTA'], period='5y', interval='1d', group_by='ticker', progress=False, auto_adjust=False)
+2026-08-04 06:35:15,711 - ERROR - 
+5 Failed downloads:
+2026-08-04 06:35:15,711 - ERROR - ['AMWD', 'AXL', 'ASGN', 'ATGE', 'AMED']: YFPricesMissingError('possibly delisted; no price data found  (period=5y) (Yahoo error = "No data found, symbol may be delisted")')
+2026-08-04 06:35:15,735 - INFO - API request for batch ['AMED', 'AMR', 'AMTM', 'AMWD', 'ANF', 'AN', 'AOUT', 'APOG', 'ARRY', 'ARW', 'ASGN', 'ASO', 'ASRT', 'ATGE', 'ATO', 'ATR', 'AVAH', 'AVTR', 'AXL', 'AXTA'] completed in 1.11 seconds.
+2026-08-04 06:35:15,748 - ERROR - Latest price for AMED is NaN or None. Using most recent non-NaN price: None (date: None)
+2026-08-04 06:35:15,762 - ERROR - Latest price for AMR is NaN or None. Using most recent non-NaN price: 137.16000366210938 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:15,775 - ERROR - Latest price for AMTM is NaN or None. Using most recent non-NaN price: 22.200000762939453 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:15,789 - ERROR - Latest price for AMWD is NaN or None. Using most recent non-NaN price: None (date: None)
+2026-08-04 06:35:15,802 - ERROR - Latest price for ANF is NaN or None. Using most recent non-NaN price: 99.54000091552734 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:15,816 - ERROR - Latest price for AN is NaN or None. Using most recent non-NaN price: 212.39999389648438 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:15,830 - ERROR - Latest price for AOUT is NaN or None. Using most recent non-NaN price: 12.359999656677246 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:15,844 - ERROR - Latest price for APOG is NaN or None. Using most recent non-NaN price: 39.599998474121094 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:15,858 - ERROR - Latest price for ARRY is NaN or None. Using most recent non-NaN price: 5.21999979019165 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:15,872 - ERROR - Latest price for ARW is NaN or None. Using most recent non-NaN price: 216.57000732421875 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:15,885 - ERROR - Latest price for ASGN is NaN or None. Using most recent non-NaN price: None (date: None)
+2026-08-04 06:35:15,921 - ERROR - Latest price for ASO is NaN or None. Using most recent non-NaN price: 47.45000076293945 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:15,934 - ERROR - Latest price for ASRT is NaN or None. Using most recent non-NaN price: 23.5 (date: 2026-06-29 00:00:00)
+2026-08-04 06:35:15,947 - ERROR - Latest price for ATGE is NaN or None. Using most recent non-NaN price: None (date: None)
+2026-08-04 06:35:15,961 - ERROR - Latest price for ATO is NaN or None. Using most recent non-NaN price: 172.77999877929688 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:15,976 - ERROR - Latest price for ATR is NaN or None. Using most recent non-NaN price: 133.9600067138672 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:15,990 - ERROR - Latest price for AVAH is NaN or None. Using most recent non-NaN price: 9.390000343322754 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:16,004 - ERROR - Latest price for AVTR is NaN or None. Using most recent non-NaN price: 13.779999732971191 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:16,017 - ERROR - Latest price for AXL is NaN or None. Using most recent non-NaN price: None (date: None)
+2026-08-04 06:35:16,031 - ERROR - Latest price for AXTA is NaN or None. Using most recent non-NaN price: 35.810001373291016 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:21,031 - INFO - API request: yf.download(batch=['AX', 'AZO', 'BATL', 'BBCP', 'BDC', 'BDN', 'BHE', 'BIGGQ', 'BJ', 'BKNG', 'BKU', 'BLCO', 'BOSC', 'BRBR', 'BRN', 'BRT', 'BTU', 'BX', 'CAH', 'CAR'], period='5y', interval='1d', group_by='ticker', progress=False, auto_adjust=False)
+2026-08-04 06:35:21,993 - INFO - API request for batch ['AX', 'AZO', 'BATL', 'BBCP', 'BDC', 'BDN', 'BHE', 'BIGGQ', 'BJ', 'BKNG', 'BKU', 'BLCO', 'BOSC', 'BRBR', 'BRN', 'BRT', 'BTU', 'BX', 'CAH', 'CAR'] completed in 0.96 seconds.
+2026-08-04 06:35:22,007 - ERROR - Latest price for AX is NaN or None. Using most recent non-NaN price: 101.41000366210938 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:22,021 - ERROR - Latest price for AZO is NaN or None. Using most recent non-NaN price: 3016.25 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:22,035 - ERROR - Latest price for BATL is NaN or None. Using most recent non-NaN price: 1.4500000476837158 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:22,049 - ERROR - Latest price for BBCP is NaN or None. Using most recent non-NaN price: 9.729999542236328 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:22,063 - ERROR - Latest price for BDC is NaN or None. Using most recent non-NaN price: 124.05000305175781 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:22,078 - ERROR - Latest price for BDN is NaN or None. Using most recent non-NaN price: 3.0399999618530273 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:22,092 - ERROR - Latest price for BHE is NaN or None. Using most recent non-NaN price: 79.7699966430664 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:22,106 - ERROR - Latest price for BIGGQ is NaN or None. Using most recent non-NaN price: 0.00039999998989515007 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:22,120 - ERROR - Latest price for BJ is NaN or None. Using most recent non-NaN price: 97.77999877929688 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:22,135 - ERROR - Latest price for BKNG is NaN or None. Using most recent non-NaN price: 192.89999389648438 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:22,149 - ERROR - Latest price for BKU is NaN or None. Using most recent non-NaN price: 46.650001525878906 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:22,163 - ERROR - Latest price for BLCO is NaN or None. Using most recent non-NaN price: 16.90999984741211 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:22,177 - ERROR - Latest price for BOSC is NaN or None. Using most recent non-NaN price: 4.5 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:22,191 - ERROR - Latest price for BRBR is NaN or None. Using most recent non-NaN price: 12.390000343322754 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:22,205 - ERROR - Latest price for BRN is NaN or None. Using most recent non-NaN price: 1.0299999713897705 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:22,219 - ERROR - Latest price for BRT is NaN or None. Using most recent non-NaN price: 14.90999984741211 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:22,233 - ERROR - Latest price for BTU is NaN or None. Using most recent non-NaN price: 21.31999969482422 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:22,248 - ERROR - Latest price for BX is NaN or None. Using most recent non-NaN price: 127.75 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:22,262 - ERROR - Latest price for CAH is NaN or None. Using most recent non-NaN price: 230.02999877929688 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:22,276 - ERROR - Latest price for CAR is NaN or None. Using most recent non-NaN price: 137.44000244140625 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:27,276 - INFO - API request: yf.download(batch=['CASH', 'CBRE', 'CBU', 'CCCS', 'CCSI', 'CDRE', 'CECO', 'CERT', 'CFFN', 'CHH', 'CHX', 'CIEN', 'CIVB', 'CI', 'CLBK', 'CLB', 'CLF', 'CLMB', 'CMPR', 'CNP'], period='5y', interval='1d', group_by='ticker', progress=False, auto_adjust=False)
+2026-08-04 06:35:28,389 - ERROR - 
+2 Failed downloads:
+2026-08-04 06:35:28,389 - ERROR - ['CHX', 'CCCS']: YFPricesMissingError('possibly delisted; no price data found  (period=5y) (Yahoo error = "No data found, symbol may be delisted")')
+2026-08-04 06:35:28,439 - INFO - API request for batch ['CASH', 'CBRE', 'CBU', 'CCCS', 'CCSI', 'CDRE', 'CECO', 'CERT', 'CFFN', 'CHH', 'CHX', 'CIEN', 'CIVB', 'CI', 'CLBK', 'CLB', 'CLF', 'CLMB', 'CMPR', 'CNP'] completed in 1.16 seconds.
+2026-08-04 06:35:28,478 - ERROR - Latest price for CASH is NaN or None. Using most recent non-NaN price: 88.23999786376953 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:28,493 - ERROR - Latest price for CBRE is NaN or None. Using most recent non-NaN price: 146.80999755859375 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:28,508 - ERROR - Latest price for CBU is NaN or None. Using most recent non-NaN price: 64.80999755859375 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:28,522 - ERROR - Latest price for CCCS is NaN or None. Using most recent non-NaN price: None (date: None)
+2026-08-04 06:35:28,537 - ERROR - Latest price for CCSI is NaN or None. Using most recent non-NaN price: 36.400001525878906 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:28,552 - ERROR - Latest price for CDRE is NaN or None. Using most recent non-NaN price: 30.829999923706055 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:28,566 - ERROR - Latest price for CECO is NaN or None. Using most recent non-NaN price: 65.88999938964844 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:28,582 - ERROR - Latest price for CERT is NaN or None. Using most recent non-NaN price: 8.100000381469727 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:28,596 - ERROR - Latest price for CFFN is NaN or None. Using most recent non-NaN price: 8.84000015258789 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:28,610 - ERROR - Latest price for CHH is NaN or None. Using most recent non-NaN price: 111.48999786376953 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:28,623 - ERROR - Latest price for CHX is NaN or None. Using most recent non-NaN price: None (date: None)
+2026-08-04 06:35:28,637 - ERROR - Latest price for CIEN is NaN or None. Using most recent non-NaN price: 377.04998779296875 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:28,652 - ERROR - Latest price for CIVB is NaN or None. Using most recent non-NaN price: 29.059999465942383 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:28,666 - ERROR - Latest price for CI is NaN or None. Using most recent non-NaN price: 279.04998779296875 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:28,683 - ERROR - Latest price for CLBK is NaN or None. Using most recent non-NaN price: 10.8100004196167 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:28,697 - ERROR - Latest price for CLB is NaN or None. Using most recent non-NaN price: 10.640000343322754 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:28,712 - ERROR - Latest price for CLF is NaN or None. Using most recent non-NaN price: 11.520000457763672 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:28,726 - ERROR - Latest price for CLMB is NaN or None. Using most recent non-NaN price: 26.809999465942383 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:28,740 - ERROR - Latest price for CMPR is NaN or None. Using most recent non-NaN price: 98.69999694824219 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:28,755 - ERROR - Latest price for CNP is NaN or None. Using most recent non-NaN price: 42.040000915527344 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:33,755 - INFO - API request: yf.download(batch=['COF', 'COFS', 'COLD', 'COOK', 'COP', 'COR', 'COST', 'CPAY', 'CP', 'CRC', 'CRNC', 'CRSR', 'CSPI', 'CSTE', 'CTBI', 'CTM', 'CTO', 'CTOS', 'CTRA', 'CURV'], period='5y', interval='1d', group_by='ticker', progress=False, auto_adjust=False)
+2026-08-04 06:35:35,264 - ERROR - 
+1 Failed download:
+2026-08-04 06:35:35,264 - ERROR - ['CTRA']: YFPricesMissingError('possibly delisted; no price data found  (period=5y) (Yahoo error = "No data found, symbol may be delisted")')
+2026-08-04 06:35:35,291 - INFO - API request for batch ['COF', 'COFS', 'COLD', 'COOK', 'COP', 'COR', 'COST', 'CPAY', 'CP', 'CRC', 'CRNC', 'CRSR', 'CSPI', 'CSTE', 'CTBI', 'CTM', 'CTO', 'CTOS', 'CTRA', 'CURV'] completed in 1.54 seconds.
+2026-08-04 06:35:35,306 - ERROR - Latest price for COF is NaN or None. Using most recent non-NaN price: 209.00999450683594 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:35,320 - ERROR - Latest price for COFS is NaN or None. Using most recent non-NaN price: 34.029998779296875 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:35,335 - ERROR - Latest price for COLD is NaN or None. Using most recent non-NaN price: 14.09000015258789 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:35,349 - ERROR - Latest price for COOK is NaN or None. Using most recent non-NaN price: 64.1500015258789 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:35,364 - ERROR - Latest price for COP is NaN or None. Using most recent non-NaN price: 120.4800033569336 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:35,378 - ERROR - Latest price for COR is NaN or None. Using most recent non-NaN price: 311.3399963378906 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:35,392 - ERROR - Latest price for COST is NaN or None. Using most recent non-NaN price: 951.8900146484375 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:35,407 - ERROR - Latest price for CPAY is NaN or None. Using most recent non-NaN price: 382.1099853515625 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:35,421 - ERROR - Latest price for CP is NaN or None. Using most recent non-NaN price: 88.88999938964844 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:35,436 - ERROR - Latest price for CRC is NaN or None. Using most recent non-NaN price: 52.619998931884766 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:35,450 - ERROR - Latest price for CRNC is NaN or None. Using most recent non-NaN price: 8.520000457763672 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:35,465 - ERROR - Latest price for CRSR is NaN or None. Using most recent non-NaN price: 10.609999656677246 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:35,480 - ERROR - Latest price for CSPI is NaN or None. Using most recent non-NaN price: 7.909999847412109 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:35,523 - ERROR - Latest price for CSTE is NaN or None. Using most recent non-NaN price: 2.0899999141693115 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:35,538 - ERROR - Latest price for CTBI is NaN or None. Using most recent non-NaN price: 78.44999694824219 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:35,552 - ERROR - Latest price for CTM is NaN or None. Using most recent non-NaN price: 0.7179999947547913 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:35,566 - ERROR - Latest price for CTO is NaN or None. Using most recent non-NaN price: 21.969999313354492 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:35,581 - ERROR - Latest price for CTOS is NaN or None. Using most recent non-NaN price: 10.149999618530273 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:35,594 - ERROR - Latest price for CTRA is NaN or None. Using most recent non-NaN price: None (date: None)
+2026-08-04 06:35:35,608 - ERROR - Latest price for CURV is NaN or None. Using most recent non-NaN price: 2.549999952316284 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:40,608 - INFO - API request: yf.download(batch=['CVI', 'CVLT', 'CWCO', 'CXXIF', 'CZFS', 'DGII', 'DHAI', 'DHX', 'DLTR', 'DNUT', 'DOCN', 'DOCU', 'DPZ', 'DTM', 'DT', 'DVA', 'DV', 'D', 'EAT', 'ENB'], period='5y', interval='1d', group_by='ticker', progress=False, auto_adjust=False)
+2026-08-04 06:35:41,457 - INFO - API request for batch ['CVI', 'CVLT', 'CWCO', 'CXXIF', 'CZFS', 'DGII', 'DHAI', 'DHX', 'DLTR', 'DNUT', 'DOCN', 'DOCU', 'DPZ', 'DTM', 'DT', 'DVA', 'DV', 'D', 'EAT', 'ENB'] completed in 0.85 seconds.
+2026-08-04 06:35:41,471 - ERROR - Latest price for CVI is NaN or None. Using most recent non-NaN price: 35.619998931884766 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:41,486 - ERROR - Latest price for CVLT is NaN or None. Using most recent non-NaN price: 117.80000305175781 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:41,500 - ERROR - Latest price for CWCO is NaN or None. Using most recent non-NaN price: 29.200000762939453 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:41,514 - ERROR - Latest price for CXXIF is NaN or None. Using most recent non-NaN price: 0.2029999941587448 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:41,528 - ERROR - Latest price for CZFS is NaN or None. Using most recent non-NaN price: 77.5199966430664 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:41,543 - ERROR - Latest price for DGII is NaN or None. Using most recent non-NaN price: 69.72000122070312 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:41,557 - ERROR - Latest price for DHAI is NaN or None. Using most recent non-NaN price: 0.019999999552965164 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:41,571 - ERROR - Latest price for DHX is NaN or None. Using most recent non-NaN price: 4.210000038146973 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:41,586 - ERROR - Latest price for DLTR is NaN or None. Using most recent non-NaN price: 127.20999908447266 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:41,601 - ERROR - Latest price for DNUT is NaN or None. Using most recent non-NaN price: 3.180000066757202 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:41,615 - ERROR - Latest price for DOCN is NaN or None. Using most recent non-NaN price: 117.5 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:41,630 - ERROR - Latest price for DOCU is NaN or None. Using most recent non-NaN price: 54.83000183105469 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:41,644 - ERROR - Latest price for DPZ is NaN or None. Using most recent non-NaN price: 347.44000244140625 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:41,659 - ERROR - Latest price for DTM is NaN or None. Using most recent non-NaN price: 138.0 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:41,673 - ERROR - Latest price for DT is NaN or None. Using most recent non-NaN price: 44.31999969482422 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:41,688 - ERROR - Latest price for DVA is NaN or None. Using most recent non-NaN price: 240.08999633789062 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:41,703 - ERROR - Latest price for DV is NaN or None. Using most recent non-NaN price: 11.25 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:41,717 - ERROR - Latest price for D is NaN or None. Using most recent non-NaN price: 69.16999816894531 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:41,732 - ERROR - Latest price for EAT is NaN or None. Using most recent non-NaN price: 213.6999969482422 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:41,747 - ERROR - Latest price for ENB is NaN or None. Using most recent non-NaN price: 54.459999084472656 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:46,747 - INFO - API request: yf.download(batch=['EBS', 'EEFT', 'EE', 'EGY', 'EHAB', 'EME', 'ENVA', 'EOG', 'KMI', 'EPAC', 'EPRT', 'ESQ', 'ESTC', 'ETWO', 'EVCM', 'EVI', 'FANG', 'FCN', 'FC', 'FEIM'], period='5y', interval='1d', group_by='ticker', progress=False, auto_adjust=False)
+2026-08-04 06:35:48,449 - ERROR - 
+2 Failed downloads:
+2026-08-04 06:35:48,449 - ERROR - ['EHAB', 'ETWO']: YFPricesMissingError('possibly delisted; no price data found  (period=5y) (Yahoo error = "No data found, symbol may be delisted")')
+2026-08-04 06:35:48,476 - INFO - API request for batch ['EBS', 'EEFT', 'EE', 'EGY', 'EHAB', 'EME', 'ENVA', 'EOG', 'KMI', 'EPAC', 'EPRT', 'ESQ', 'ESTC', 'ETWO', 'EVCM', 'EVI', 'FANG', 'FCN', 'FC', 'FEIM'] completed in 1.73 seconds.
+2026-08-04 06:35:48,491 - ERROR - Latest price for EBS is NaN or None. Using most recent non-NaN price: 7.21999979019165 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:48,506 - ERROR - Latest price for EEFT is NaN or None. Using most recent non-NaN price: 71.33000183105469 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:48,520 - ERROR - Latest price for EE is NaN or None. Using most recent non-NaN price: 39.27000045776367 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:48,560 - ERROR - Latest price for EGY is NaN or None. Using most recent non-NaN price: 5.329999923706055 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:48,573 - ERROR - Latest price for EHAB is NaN or None. Using most recent non-NaN price: None (date: None)
+2026-08-04 06:35:48,588 - ERROR - Latest price for EME is NaN or None. Using most recent non-NaN price: 797.4299926757812 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:48,602 - ERROR - Latest price for ENVA is NaN or None. Using most recent non-NaN price: 254.13999938964844 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:48,616 - ERROR - Latest price for EOG is NaN or None. Using most recent non-NaN price: 148.69000244140625 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:48,631 - ERROR - Latest price for KMI is NaN or None. Using most recent non-NaN price: 32.18000030517578 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:48,645 - ERROR - Latest price for EPAC is NaN or None. Using most recent non-NaN price: 35.7400016784668 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:48,659 - ERROR - Latest price for EPRT is NaN or None. Using most recent non-NaN price: 31.290000915527344 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:48,673 - ERROR - Latest price for ESQ is NaN or None. Using most recent non-NaN price: 129.22000122070312 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:48,688 - ERROR - Latest price for ESTC is NaN or None. Using most recent non-NaN price: 65.79000091552734 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:48,701 - ERROR - Latest price for ETWO is NaN or None. Using most recent non-NaN price: None (date: None)
+2026-08-04 06:35:48,715 - ERROR - Latest price for EVCM is NaN or None. Using most recent non-NaN price: 12.34000015258789 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:48,731 - ERROR - Latest price for EVI is NaN or None. Using most recent non-NaN price: 14.069999694824219 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:48,746 - ERROR - Latest price for FANG is NaN or None. Using most recent non-NaN price: 202.9499969482422 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:48,761 - ERROR - Latest price for FCN is NaN or None. Using most recent non-NaN price: 159.3800048828125 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:48,776 - ERROR - Latest price for FC is NaN or None. Using most recent non-NaN price: 21.450000762939453 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:48,790 - ERROR - Latest price for FEIM is NaN or None. Using most recent non-NaN price: 57.970001220703125 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:53,790 - INFO - API request: yf.download(batch=['FERG', 'FE', 'FFWM', 'FISI', 'FIX', 'FIZZ', 'FLNG', 'FLO', 'FNMA', 'FN', 'FRPH', 'FTI', 'FTRE', 'FULT', 'FVCB', 'FVRR', 'FXNC', 'FYBR', 'GAP', 'GDEN'], period='5y', interval='1d', group_by='ticker', progress=False, auto_adjust=False)
+2026-08-04 06:35:54,868 - ERROR - 
+3 Failed downloads:
+2026-08-04 06:35:54,868 - ERROR - ['FYBR', 'GDEN', 'FFWM']: YFPricesMissingError('possibly delisted; no price data found  (period=5y) (Yahoo error = "No data found, symbol may be delisted")')
+2026-08-04 06:35:54,893 - INFO - API request for batch ['FERG', 'FE', 'FFWM', 'FISI', 'FIX', 'FIZZ', 'FLNG', 'FLO', 'FNMA', 'FN', 'FRPH', 'FTI', 'FTRE', 'FULT', 'FVCB', 'FVRR', 'FXNC', 'FYBR', 'GAP', 'GDEN'] completed in 1.10 seconds.
+2026-08-04 06:35:54,908 - ERROR - Latest price for FERG is NaN or None. Using most recent non-NaN price: 234.3300018310547 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:54,922 - ERROR - Latest price for FE is NaN or None. Using most recent non-NaN price: 48.310001373291016 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:54,936 - ERROR - Latest price for FFWM is NaN or None. Using most recent non-NaN price: None (date: None)
+2026-08-04 06:35:54,950 - ERROR - Latest price for FISI is NaN or None. Using most recent non-NaN price: 41.459999084472656 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:54,964 - ERROR - Latest price for FIX is NaN or None. Using most recent non-NaN price: 1729.68994140625 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:54,978 - ERROR - Latest price for FIZZ is NaN or None. Using most recent non-NaN price: 31.639999389648438 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:54,992 - ERROR - Latest price for FLNG is NaN or None. Using most recent non-NaN price: 31.209999084472656 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:55,006 - ERROR - Latest price for FLO is NaN or None. Using most recent non-NaN price: 7.019999980926514 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:55,021 - ERROR - Latest price for FNMA is NaN or None. Using most recent non-NaN price: 5.789999961853027 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:55,035 - ERROR - Latest price for FN is NaN or None. Using most recent non-NaN price: 435.4100036621094 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:55,049 - ERROR - Latest price for FRPH is NaN or None. Using most recent non-NaN price: 22.31999969482422 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:55,063 - ERROR - Latest price for FTI is NaN or None. Using most recent non-NaN price: 71.66000366210938 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:55,077 - ERROR - Latest price for FTRE is NaN or None. Using most recent non-NaN price: 19.170000076293945 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:55,091 - ERROR - Latest price for FULT is NaN or None. Using most recent non-NaN price: 24.329999923706055 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:55,105 - ERROR - Latest price for FVCB is NaN or None. Using most recent non-NaN price: 18.59000015258789 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:55,119 - ERROR - Latest price for FVRR is NaN or None. Using most recent non-NaN price: 8.930000305175781 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:55,134 - ERROR - Latest price for FXNC is NaN or None. Using most recent non-NaN price: 31.75 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:55,173 - ERROR - Latest price for FYBR is NaN or None. Using most recent non-NaN price: None (date: None)
+2026-08-04 06:35:55,188 - ERROR - Latest price for GAP is NaN or None. Using most recent non-NaN price: 20.09000015258789 (date: 2026-07-31 00:00:00)
+2026-08-04 06:35:55,201 - ERROR - Latest price for GDEN is NaN or None. Using most recent non-NaN price: None (date: None)
+2026-08-04 06:36:00,201 - INFO - API request: yf.download(batch=['GIII', 'GILT', 'GLW', 'GNL', 'GO', 'GPK', 'GSL', 'GTIM', 'GTX', 'GXO', 'HAYW', 'HDSN', 'HLLY', 'HLMN', 'NHPAP', 'HLT', 'HNRG', 'HOG', 'HOLX', 'HPK'], period='5y', interval='1d', group_by='ticker', progress=False, auto_adjust=False)
+2026-08-04 06:36:01,820 - ERROR - 
+1 Failed download:
+2026-08-04 06:36:01,820 - ERROR - ['HOLX']: YFPricesMissingError('possibly delisted; no price data found  (period=5y) (Yahoo error = "No data found, symbol may be delisted")')
+2026-08-04 06:36:01,846 - INFO - API request for batch ['GIII', 'GILT', 'GLW', 'GNL', 'GO', 'GPK', 'GSL', 'GTIM', 'GTX', 'GXO', 'HAYW', 'HDSN', 'HLLY', 'HLMN', 'NHPAP', 'HLT', 'HNRG', 'HOG', 'HOLX', 'HPK'] completed in 1.64 seconds.
+2026-08-04 06:36:01,860 - ERROR - Latest price for GIII is NaN or None. Using most recent non-NaN price: 36.40999984741211 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:01,874 - ERROR - Latest price for GILT is NaN or None. Using most recent non-NaN price: 11.050000190734863 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:01,888 - ERROR - Latest price for GLW is NaN or None. Using most recent non-NaN price: 138.25 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:01,903 - ERROR - Latest price for GNL is NaN or None. Using most recent non-NaN price: 8.720000267028809 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:01,917 - ERROR - Latest price for GO is NaN or None. Using most recent non-NaN price: 9.1899995803833 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:01,931 - ERROR - Latest price for GPK is NaN or None. Using most recent non-NaN price: 10.729999542236328 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:01,945 - ERROR - Latest price for GSL is NaN or None. Using most recent non-NaN price: 44.34000015258789 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:01,959 - ERROR - Latest price for GTIM is NaN or None. Using most recent non-NaN price: 1.3799999952316284 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:01,973 - ERROR - Latest price for GTX is NaN or None. Using most recent non-NaN price: 31.149999618530273 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:01,987 - ERROR - Latest price for GXO is NaN or None. Using most recent non-NaN price: 50.15999984741211 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:02,001 - ERROR - Latest price for HAYW is NaN or None. Using most recent non-NaN price: 15.130000114440918 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:02,016 - ERROR - Latest price for HDSN is NaN or None. Using most recent non-NaN price: 6.039999961853027 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:02,030 - ERROR - Latest price for HLLY is NaN or None. Using most recent non-NaN price: 2.6700000762939453 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:02,044 - ERROR - Latest price for HLMN is NaN or None. Using most recent non-NaN price: 7.869999885559082 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:02,058 - ERROR - Latest price for NHPAP is NaN or None. Using most recent non-NaN price: 23.219999313354492 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:02,072 - ERROR - Latest price for HLT is NaN or None. Using most recent non-NaN price: 320.489990234375 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:02,086 - ERROR - Latest price for HNRG is NaN or None. Using most recent non-NaN price: 14.220000267028809 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:02,100 - ERROR - Latest price for HOG is NaN or None. Using most recent non-NaN price: 24.540000915527344 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:02,114 - ERROR - Latest price for HOLX is NaN or None. Using most recent non-NaN price: None (date: None)
+2026-08-04 06:36:02,128 - ERROR - Latest price for HPK is NaN or None. Using most recent non-NaN price: 7.150000095367432 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:07,128 - INFO - API request: yf.download(batch=['HPQ', 'HP', 'HRMY', 'HRTG', 'HTBK', 'HWKN', 'IESC', 'IEX', 'IGT', 'INFU', 'INN', 'INTA', 'INTU', 'IRDM', 'IROQ', 'ITRN', 'ITT', 'JAMF', 'JLL', 'JMSB'], period='5y', interval='1d', group_by='ticker', progress=False, auto_adjust=False)
+2026-08-04 06:36:08,948 - ERROR - 
+4 Failed downloads:
+2026-08-04 06:36:08,948 - ERROR - ['HTBK', 'IGT', 'IROQ', 'JAMF']: YFPricesMissingError('possibly delisted; no price data found  (period=5y) (Yahoo error = "No data found, symbol may be delisted")')
+2026-08-04 06:36:08,971 - INFO - API request for batch ['HPQ', 'HP', 'HRMY', 'HRTG', 'HTBK', 'HWKN', 'IESC', 'IEX', 'IGT', 'INFU', 'INN', 'INTA', 'INTU', 'IRDM', 'IROQ', 'ITRN', 'ITT', 'JAMF', 'JLL', 'JMSB'] completed in 1.84 seconds.
+2026-08-04 06:36:08,986 - ERROR - Latest price for HPQ is NaN or None. Using most recent non-NaN price: 27.270000457763672 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:09,000 - ERROR - Latest price for HP is NaN or None. Using most recent non-NaN price: 34.56999969482422 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:09,039 - ERROR - Latest price for HRMY is NaN or None. Using most recent non-NaN price: 35.2400016784668 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:09,054 - ERROR - Latest price for HRTG is NaN or None. Using most recent non-NaN price: 29.3700008392334 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:09,067 - ERROR - Latest price for HTBK is NaN or None. Using most recent non-NaN price: None (date: None)
+2026-08-04 06:36:09,081 - ERROR - Latest price for HWKN is NaN or None. Using most recent non-NaN price: 128.02999877929688 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:09,095 - ERROR - Latest price for IESC is NaN or None. Using most recent non-NaN price: 744.5399780273438 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:09,110 - ERROR - Latest price for IEX is NaN or None. Using most recent non-NaN price: 230.4499969482422 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:09,123 - ERROR - Latest price for IGT is NaN or None. Using most recent non-NaN price: None (date: None)
+2026-08-04 06:36:09,137 - ERROR - Latest price for INFU is NaN or None. Using most recent non-NaN price: 9.140000343322754 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:09,151 - ERROR - Latest price for INN is NaN or None. Using most recent non-NaN price: 6.880000114440918 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:09,165 - ERROR - Latest price for INTA is NaN or None. Using most recent non-NaN price: 32.689998626708984 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:09,180 - ERROR - Latest price for INTU is NaN or None. Using most recent non-NaN price: 316.07000732421875 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:09,194 - ERROR - Latest price for IRDM is NaN or None. Using most recent non-NaN price: 47.34000015258789 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:09,207 - ERROR - Latest price for IROQ is NaN or None. Using most recent non-NaN price: None (date: None)
+2026-08-04 06:36:09,221 - ERROR - Latest price for ITRN is NaN or None. Using most recent non-NaN price: 55.15999984741211 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:09,235 - ERROR - Latest price for ITT is NaN or None. Using most recent non-NaN price: 195.97999572753906 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:09,249 - ERROR - Latest price for JAMF is NaN or None. Using most recent non-NaN price: None (date: None)
+2026-08-04 06:36:09,263 - ERROR - Latest price for JLL is NaN or None. Using most recent non-NaN price: 355.0299987792969 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:09,277 - ERROR - Latest price for JMSB is NaN or None. Using most recent non-NaN price: 23.200000762939453 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:14,277 - INFO - API request: yf.download(batch=['JRSH', 'KEY', 'KEYS', 'KLIC', 'KNX', 'KO', 'KRT', 'KVUE', 'LAKE', 'LCII', 'LEA', 'LESL', 'LE', 'LII', 'LMB', 'LNG', 'LNKB', 'LUMN', 'LVLU', 'LXFR'], period='5y', interval='1d', group_by='ticker', progress=False, auto_adjust=False)
+2026-08-04 06:36:15,321 - ERROR - 
+1 Failed download:
+2026-08-04 06:36:15,321 - ERROR - ['LNKB']: YFPricesMissingError('possibly delisted; no price data found  (period=5y) (Yahoo error = "No data found, symbol may be delisted")')
+2026-08-04 06:36:15,349 - INFO - API request for batch ['JRSH', 'KEY', 'KEYS', 'KLIC', 'KNX', 'KO', 'KRT', 'KVUE', 'LAKE', 'LCII', 'LEA', 'LESL', 'LE', 'LII', 'LMB', 'LNG', 'LNKB', 'LUMN', 'LVLU', 'LXFR'] completed in 1.07 seconds.
+2026-08-04 06:36:15,363 - ERROR - Latest price for JRSH is NaN or None. Using most recent non-NaN price: 4.574999809265137 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:15,377 - ERROR - Latest price for KEY is NaN or None. Using most recent non-NaN price: 22.59000015258789 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:15,392 - ERROR - Latest price for KEYS is NaN or None. Using most recent non-NaN price: 319.0799865722656 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:15,406 - ERROR - Latest price for KLIC is NaN or None. Using most recent non-NaN price: 89.19999694824219 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:15,420 - ERROR - Latest price for KNX is NaN or None. Using most recent non-NaN price: 69.52999877929688 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:15,434 - ERROR - Latest price for KO is NaN or None. Using most recent non-NaN price: 87.58999633789062 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:15,448 - ERROR - Latest price for KRT is NaN or None. Using most recent non-NaN price: 40.2400016784668 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:15,462 - ERROR - Latest price for KVUE is NaN or None. Using most recent non-NaN price: 19.239999771118164 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:15,476 - ERROR - Latest price for LAKE is NaN or None. Using most recent non-NaN price: 11.399999618530273 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:15,490 - ERROR - Latest price for LCII is NaN or None. Using most recent non-NaN price: 102.36000061035156 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:15,505 - ERROR - Latest price for LEA is NaN or None. Using most recent non-NaN price: 130.63999938964844 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:15,519 - ERROR - Latest price for LESL is NaN or None. Using most recent non-NaN price: 0.9509999752044678 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:15,533 - ERROR - Latest price for LE is NaN or None. Using most recent non-NaN price: 12.020000457763672 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:15,547 - ERROR - Latest price for LII is NaN or None. Using most recent non-NaN price: 415.8800048828125 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:15,589 - ERROR - Latest price for LMB is NaN or None. Using most recent non-NaN price: 71.69999694824219 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:15,603 - ERROR - Latest price for LNG is NaN or None. Using most recent non-NaN price: 263.57000732421875 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:15,616 - ERROR - Latest price for LNKB is NaN or None. Using most recent non-NaN price: None (date: None)
+2026-08-04 06:36:15,630 - ERROR - Latest price for LUMN is NaN or None. Using most recent non-NaN price: 6.380000114440918 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:15,645 - ERROR - Latest price for LVLU is NaN or None. Using most recent non-NaN price: 16.261999130249023 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:15,659 - ERROR - Latest price for LXFR is NaN or None. Using most recent non-NaN price: 17.030000686645508 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:20,659 - INFO - API request: yf.download(batch=['LYB', 'LYV', 'L', 'MAMO', 'MAR', 'MCB', 'MCW', 'MCY', 'MDU', 'MD', 'MEG', 'MELI', 'MET', 'MGRC', 'MKL', 'MLNK', 'MNTK', 'MOH', 'MOS', 'MPTI'], period='5y', interval='1d', group_by='ticker', progress=False, auto_adjust=False)
+2026-08-04 06:36:22,511 - ERROR - 
+2 Failed downloads:
+2026-08-04 06:36:22,511 - ERROR - ['MLNK', 'MEG']: YFPricesMissingError('possibly delisted; no price data found  (period=5y) (Yahoo error = "No data found, symbol may be delisted")')
+2026-08-04 06:36:22,558 - INFO - API request for batch ['LYB', 'LYV', 'L', 'MAMO', 'MAR', 'MCB', 'MCW', 'MCY', 'MDU', 'MD', 'MEG', 'MELI', 'MET', 'MGRC', 'MKL', 'MLNK', 'MNTK', 'MOH', 'MOS', 'MPTI'] completed in 1.90 seconds.
+2026-08-04 06:36:22,572 - ERROR - Latest price for LYB is NaN or None. Using most recent non-NaN price: 62.08000183105469 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:22,587 - ERROR - Latest price for LYV is NaN or None. Using most recent non-NaN price: 174.1300048828125 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:22,601 - ERROR - Latest price for L is NaN or None. Using most recent non-NaN price: 116.01000213623047 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:22,614 - ERROR - Latest price for MAMO is NaN or None. Using most recent non-NaN price: 1.0199999809265137 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:22,628 - ERROR - Latest price for MAR is NaN or None. Using most recent non-NaN price: 372.8299865722656 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:22,642 - ERROR - Latest price for MCB is NaN or None. Using most recent non-NaN price: 92.4800033569336 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:22,655 - ERROR - Latest price for MCW is NaN or None. Using most recent non-NaN price: 7.099999904632568 (date: 2026-06-08 00:00:00)
+2026-08-04 06:36:22,669 - ERROR - Latest price for MCY is NaN or None. Using most recent non-NaN price: 107.12000274658203 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:22,683 - ERROR - Latest price for MDU is NaN or None. Using most recent non-NaN price: 19.950000762939453 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:22,698 - ERROR - Latest price for MD is NaN or None. Using most recent non-NaN price: 26.510000228881836 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:22,711 - ERROR - Latest price for MEG is NaN or None. Using most recent non-NaN price: None (date: None)
+2026-08-04 06:36:22,725 - ERROR - Latest price for MELI is NaN or None. Using most recent non-NaN price: 1877.949951171875 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:22,739 - ERROR - Latest price for MET is NaN or None. Using most recent non-NaN price: 96.12999725341797 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:22,754 - ERROR - Latest price for MGRC is NaN or None. Using most recent non-NaN price: 115.1500015258789 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:22,768 - ERROR - Latest price for MKL is NaN or None. Using most recent non-NaN price: 1882.3399658203125 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:22,781 - ERROR - Latest price for MLNK is NaN or None. Using most recent non-NaN price: None (date: None)
+2026-08-04 06:36:22,795 - ERROR - Latest price for MNTK is NaN or None. Using most recent non-NaN price: 1.7100000381469727 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:22,809 - ERROR - Latest price for MOH is NaN or None. Using most recent non-NaN price: 195.6199951171875 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:22,824 - ERROR - Latest price for MOS is NaN or None. Using most recent non-NaN price: 22.1200008392334 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:22,837 - ERROR - Latest price for MPTI is NaN or None. Using most recent non-NaN price: 82.37999725341797 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:27,838 - INFO - API request: yf.download(batch=['MRCY', 'MRVL', 'MTCH', 'MTN', 'MTSI', 'M', 'NABL', 'NBBK', 'NBHC', 'NICE', 'XIFR', 'NFBK', 'NFLX', 'NHC', 'NKSH', 'NOG', 'NPK', 'NRG', 'NSSC', 'NSTS'], period='5y', interval='1d', group_by='ticker', progress=False, auto_adjust=False)
+2026-08-04 06:36:29,354 - INFO - API request for batch ['MRCY', 'MRVL', 'MTCH', 'MTN', 'MTSI', 'M', 'NABL', 'NBBK', 'NBHC', 'NICE', 'XIFR', 'NFBK', 'NFLX', 'NHC', 'NKSH', 'NOG', 'NPK', 'NRG', 'NSSC', 'NSTS'] completed in 1.52 seconds.
+2026-08-04 06:36:29,368 - ERROR - Latest price for MRCY is NaN or None. Using most recent non-NaN price: 97.0999984741211 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:29,382 - ERROR - Latest price for MRVL is NaN or None. Using most recent non-NaN price: 187.55999755859375 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:29,396 - ERROR - Latest price for MTCH is NaN or None. Using most recent non-NaN price: 39.40999984741211 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:29,411 - ERROR - Latest price for MTN is NaN or None. Using most recent non-NaN price: 149.3800048828125 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:29,452 - ERROR - Latest price for MTSI is NaN or None. Using most recent non-NaN price: 251.44000244140625 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:29,467 - ERROR - Latest price for M is NaN or None. Using most recent non-NaN price: 24.81999969482422 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:29,481 - ERROR - Latest price for NABL is NaN or None. Using most recent non-NaN price: 4.679999828338623 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:29,494 - ERROR - Latest price for NBBK is NaN or None. Using most recent non-NaN price: 23.010000228881836 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:29,509 - ERROR - Latest price for NBHC is NaN or None. Using most recent non-NaN price: 43.189998626708984 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:29,523 - ERROR - Latest price for NICE is NaN or None. Using most recent non-NaN price: 98.79000091552734 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:29,537 - ERROR - Latest price for XIFR is NaN or None. Using most recent non-NaN price: 11.899999618530273 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:29,550 - ERROR - Latest price for NFBK is NaN or None. Using most recent non-NaN price: 15.3100004196167 (date: 2026-07-28 00:00:00)
+2026-08-04 06:36:29,564 - ERROR - Latest price for NFLX is NaN or None. Using most recent non-NaN price: 71.70999908447266 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:29,579 - ERROR - Latest price for NHC is NaN or None. Using most recent non-NaN price: 226.02999877929688 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:29,593 - ERROR - Latest price for NKSH is NaN or None. Using most recent non-NaN price: 40.599998474121094 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:29,607 - ERROR - Latest price for NOG is NaN or None. Using most recent non-NaN price: 21.149999618530273 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:29,621 - ERROR - Latest price for NPK is NaN or None. Using most recent non-NaN price: 121.41999816894531 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:29,635 - ERROR - Latest price for NRG is NaN or None. Using most recent non-NaN price: 134.2899932861328 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:29,649 - ERROR - Latest price for NSSC is NaN or None. Using most recent non-NaN price: 37.08000183105469 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:29,663 - ERROR - Latest price for NSTS is NaN or None. Using most recent non-NaN price: 13.789999961853027 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:34,664 - INFO - API request: yf.download(batch=['NTB', 'NVDA', 'NWPP', 'TEAD', 'ODFL', 'OEC', 'OGE', 'OI', 'OLPX', 'OMF', 'OPAD', 'OPBK', 'OPCH', 'OPEN', 'OPY', 'ORRF', 'OVV', 'PAYO', 'PAYX', 'PCB'], period='5y', interval='1d', group_by='ticker', progress=False, auto_adjust=False)
+2026-08-04 06:36:35,637 - INFO - API request for batch ['NTB', 'NVDA', 'NWPP', 'TEAD', 'ODFL', 'OEC', 'OGE', 'OI', 'OLPX', 'OMF', 'OPAD', 'OPBK', 'OPCH', 'OPEN', 'OPY', 'ORRF', 'OVV', 'PAYO', 'PAYX', 'PCB'] completed in 0.97 seconds.
+2026-08-04 06:36:35,651 - ERROR - Latest price for NTB is NaN or None. Using most recent non-NaN price: 61.290000915527344 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:35,665 - ERROR - Latest price for NVDA is NaN or None. Using most recent non-NaN price: 200.75 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:35,679 - ERROR - Latest price for NWPP is NaN or None. Using most recent non-NaN price: 4.5 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:35,693 - ERROR - Latest price for TEAD is NaN or None. Using most recent non-NaN price: 0.7080000042915344 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:35,707 - ERROR - Latest price for ODFL is NaN or None. Using most recent non-NaN price: 212.13999938964844 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:35,722 - ERROR - Latest price for OEC is NaN or None. Using most recent non-NaN price: 6.75 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:35,736 - ERROR - Latest price for OGE is NaN or None. Using most recent non-NaN price: 47.349998474121094 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:35,750 - ERROR - Latest price for OI is NaN or None. Using most recent non-NaN price: 7.150000095367432 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:35,763 - ERROR - Latest price for OLPX is NaN or None. Using most recent non-NaN price: 2.069999933242798 (date: 2026-07-13 00:00:00)
+2026-08-04 06:36:35,777 - ERROR - Latest price for OMF is NaN or None. Using most recent non-NaN price: 62.58000183105469 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:35,791 - ERROR - Latest price for OPAD is NaN or None. Using most recent non-NaN price: 3.869999885559082 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:35,805 - ERROR - Latest price for OPBK is NaN or None. Using most recent non-NaN price: 15.600000381469727 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:35,819 - ERROR - Latest price for OPCH is NaN or None. Using most recent non-NaN price: 23.030000686645508 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:35,833 - ERROR - Latest price for OPEN is NaN or None. Using most recent non-NaN price: 3.7699999809265137 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:35,847 - ERROR - Latest price for OPY is NaN or None. Using most recent non-NaN price: 106.63999938964844 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:35,861 - ERROR - Latest price for ORRF is NaN or None. Using most recent non-NaN price: 42.72999954223633 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:35,875 - ERROR - Latest price for OVV is NaN or None. Using most recent non-NaN price: 62.459999084472656 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:35,889 - ERROR - Latest price for PAYO is NaN or None. Using most recent non-NaN price: 7.170000076293945 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:35,904 - ERROR - Latest price for PAYX is NaN or None. Using most recent non-NaN price: 116.83999633789062 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:35,918 - ERROR - Latest price for PCB is NaN or None. Using most recent non-NaN price: 27.8700008392334 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:40,918 - INFO - API request: yf.download(batch=['PCOR', 'PDEX', 'PDLB', 'PD', 'PEB', 'PEP', 'PERI', 'PGR', 'PLD', 'PLTK', 'PLUS', 'PNC', 'POST', 'PRAA', 'PRG', 'PRVA', 'PSTL', 'PTEN', 'PVH', 'QDEL'], period='5y', interval='1d', group_by='ticker', progress=False, auto_adjust=False)
+2026-08-04 06:36:42,529 - INFO - API request for batch ['PCOR', 'PDEX', 'PDLB', 'PD', 'PEB', 'PEP', 'PERI', 'PGR', 'PLD', 'PLTK', 'PLUS', 'PNC', 'POST', 'PRAA', 'PRG', 'PRVA', 'PSTL', 'PTEN', 'PVH', 'QDEL'] completed in 1.61 seconds.
+2026-08-04 06:36:42,543 - ERROR - Latest price for PCOR is NaN or None. Using most recent non-NaN price: 54.77000045776367 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:42,558 - ERROR - Latest price for PDEX is NaN or None. Using most recent non-NaN price: 58.56999969482422 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:42,572 - ERROR - Latest price for PDLB is NaN or None. Using most recent non-NaN price: 20.18000030517578 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:42,586 - ERROR - Latest price for PD is NaN or None. Using most recent non-NaN price: 10.579999923706055 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:42,601 - ERROR - Latest price for PEB is NaN or None. Using most recent non-NaN price: 19.100000381469727 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:42,615 - ERROR - Latest price for PEP is NaN or None. Using most recent non-NaN price: 139.55999755859375 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:42,630 - ERROR - Latest price for PERI is NaN or None. Using most recent non-NaN price: 9.539999961853027 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:42,644 - ERROR - Latest price for PGR is NaN or None. Using most recent non-NaN price: 211.4199981689453 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:42,658 - ERROR - Latest price for PLD is NaN or None. Using most recent non-NaN price: 144.61000061035156 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:42,672 - ERROR - Latest price for PLTK is NaN or None. Using most recent non-NaN price: 3.990000009536743 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:42,686 - ERROR - Latest price for PLUS is NaN or None. Using most recent non-NaN price: 92.41000366210938 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:42,700 - ERROR - Latest price for PNC is NaN or None. Using most recent non-NaN price: 249.8699951171875 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:42,714 - ERROR - Latest price for POST is NaN or None. Using most recent non-NaN price: 91.41000366210938 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:42,729 - ERROR - Latest price for PRAA is NaN or None. Using most recent non-NaN price: 17.3700008392334 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:42,743 - ERROR - Latest price for PRG is NaN or None. Using most recent non-NaN price: 44.02000045776367 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:42,757 - ERROR - Latest price for PRVA is NaN or None. Using most recent non-NaN price: 23.670000076293945 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:42,771 - ERROR - Latest price for PSTL is NaN or None. Using most recent non-NaN price: 23.040000915527344 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:42,785 - ERROR - Latest price for PTEN is NaN or None. Using most recent non-NaN price: 10.479999542236328 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:42,799 - ERROR - Latest price for PVH is NaN or None. Using most recent non-NaN price: 86.66000366210938 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:42,813 - ERROR - Latest price for QDEL is NaN or None. Using most recent non-NaN price: 16.770000457763672 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:47,814 - INFO - API request: yf.download(batch=['QRVO', 'RBA', 'RBKB', 'RGP', 'RLGT', 'RLX', 'RNR', 'ROCK', 'RRBI', 'RSVR', 'RXO', 'RXT', 'RYN', 'SAFE', 'SAFT', 'SAIA', 'SBSI', 'SCVL', 'SEE', 'SIEB'], period='5y', interval='1d', group_by='ticker', progress=False, auto_adjust=False)
+2026-08-04 06:36:49,327 - ERROR - 
+1 Failed download:
+2026-08-04 06:36:49,327 - ERROR - ['SEE']: YFPricesMissingError('possibly delisted; no price data found  (period=5y) (Yahoo error = "No data found, symbol may be delisted")')
+2026-08-04 06:36:49,354 - INFO - API request for batch ['QRVO', 'RBA', 'RBKB', 'RGP', 'RLGT', 'RLX', 'RNR', 'ROCK', 'RRBI', 'RSVR', 'RXO', 'RXT', 'RYN', 'SAFE', 'SAFT', 'SAIA', 'SBSI', 'SCVL', 'SEE', 'SIEB'] completed in 1.54 seconds.
+2026-08-04 06:36:49,368 - ERROR - Latest price for QRVO is NaN or None. Using most recent non-NaN price: 90.56999969482422 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:49,382 - ERROR - Latest price for RBA is NaN or None. Using most recent non-NaN price: 109.73999786376953 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:49,396 - ERROR - Latest price for RBKB is NaN or None. Using most recent non-NaN price: 12.0 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:49,411 - ERROR - Latest price for RGP is NaN or None. Using most recent non-NaN price: 4.369999885559082 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:49,425 - ERROR - Latest price for RLGT is NaN or None. Using most recent non-NaN price: 8.239999771118164 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:49,439 - ERROR - Latest price for RLX is NaN or None. Using most recent non-NaN price: 2.0199999809265137 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:49,453 - ERROR - Latest price for RNR is NaN or None. Using most recent non-NaN price: 319.9800109863281 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:49,467 - ERROR - Latest price for ROCK is NaN or None. Using most recent non-NaN price: 42.2599983215332 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:49,481 - ERROR - Latest price for RRBI is NaN or None. Using most recent non-NaN price: 100.55000305175781 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:49,495 - ERROR - Latest price for RSVR is NaN or None. Using most recent non-NaN price: 10.239999771118164 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:49,509 - ERROR - Latest price for RXO is NaN or None. Using most recent non-NaN price: 20.25 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:49,548 - ERROR - Latest price for RXT is NaN or None. Using most recent non-NaN price: 4.130000114440918 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:49,563 - ERROR - Latest price for RYN is NaN or None. Using most recent non-NaN price: 21.780000686645508 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:49,577 - ERROR - Latest price for SAFE is NaN or None. Using most recent non-NaN price: 16.18000030517578 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:49,591 - ERROR - Latest price for SAFT is NaN or None. Using most recent non-NaN price: 103.38999938964844 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:49,606 - ERROR - Latest price for SAIA is NaN or None. Using most recent non-NaN price: 347.6300048828125 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:49,620 - ERROR - Latest price for SBSI is NaN or None. Using most recent non-NaN price: 32.5099983215332 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:49,633 - ERROR - Latest price for SCVL is NaN or None. Using most recent non-NaN price: 14.489999771118164 (date: 2026-07-17 00:00:00)
+2026-08-04 06:36:49,646 - ERROR - Latest price for SEE is NaN or None. Using most recent non-NaN price: None (date: None)
+2026-08-04 06:36:49,660 - ERROR - Latest price for SIEB is NaN or None. Using most recent non-NaN price: 1.6299999952316284 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:54,660 - INFO - API request: yf.download(batch=['SMBC', 'SM', 'SNA', 'SND', 'SNEX', 'SOHO', 'SONO', 'STEL', 'SVV', 'SWIM', 'SWKS', 'TALO', 'TBLA', 'TCBK', 'TER', 'TH', 'TMP', 'TREE', 'TRGP', 'TRNS'], period='5y', interval='1d', group_by='ticker', progress=False, auto_adjust=False)
+2026-08-04 06:36:55,651 - ERROR - 
+1 Failed download:
+2026-08-04 06:36:55,652 - ERROR - ['SOHO']: YFPricesMissingError('possibly delisted; no price data found  (period=5y) (Yahoo error = "No data found, symbol may be delisted")')
+2026-08-04 06:36:55,678 - INFO - API request for batch ['SMBC', 'SM', 'SNA', 'SND', 'SNEX', 'SOHO', 'SONO', 'STEL', 'SVV', 'SWIM', 'SWKS', 'TALO', 'TBLA', 'TCBK', 'TER', 'TH', 'TMP', 'TREE', 'TRGP', 'TRNS'] completed in 1.02 seconds.
+2026-08-04 06:36:55,692 - ERROR - Latest price for SMBC is NaN or None. Using most recent non-NaN price: 77.41000366210938 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:55,707 - ERROR - Latest price for SM is NaN or None. Using most recent non-NaN price: 32.52000045776367 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:55,721 - ERROR - Latest price for SNA is NaN or None. Using most recent non-NaN price: 410.4100036621094 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:55,735 - ERROR - Latest price for SND is NaN or None. Using most recent non-NaN price: 4.309999942779541 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:55,749 - ERROR - Latest price for SNEX is NaN or None. Using most recent non-NaN price: 76.56999969482422 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:55,762 - ERROR - Latest price for SOHO is NaN or None. Using most recent non-NaN price: None (date: None)
+2026-08-04 06:36:55,776 - ERROR - Latest price for SONO is NaN or None. Using most recent non-NaN price: 14.65999984741211 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:55,789 - ERROR - Latest price for STEL is NaN or None. Using most recent non-NaN price: 39.31999969482422 (date: 2026-06-30 00:00:00)
+2026-08-04 06:36:55,803 - ERROR - Latest price for SVV is NaN or None. Using most recent non-NaN price: 10.260000228881836 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:55,817 - ERROR - Latest price for SWIM is NaN or None. Using most recent non-NaN price: 5.360000133514404 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:55,831 - ERROR - Latest price for SWKS is NaN or None. Using most recent non-NaN price: 62.279998779296875 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:55,845 - ERROR - Latest price for TALO is NaN or None. Using most recent non-NaN price: 15.180000305175781 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:55,860 - ERROR - Latest price for TBLA is NaN or None. Using most recent non-NaN price: 5.010000228881836 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:55,874 - ERROR - Latest price for TCBK is NaN or None. Using most recent non-NaN price: 57.540000915527344 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:55,888 - ERROR - Latest price for TER is NaN or None. Using most recent non-NaN price: 367.69000244140625 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:55,902 - ERROR - Latest price for TH is NaN or None. Using most recent non-NaN price: 15.199999809265137 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:55,916 - ERROR - Latest price for TMP is NaN or None. Using most recent non-NaN price: 99.83999633789062 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:55,931 - ERROR - Latest price for TREE is NaN or None. Using most recent non-NaN price: 31.860000610351562 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:55,945 - ERROR - Latest price for TRGP is NaN or None. Using most recent non-NaN price: 270.3699951171875 (date: 2026-07-31 00:00:00)
+2026-08-04 06:36:55,959 - ERROR - Latest price for TRNS is NaN or None. Using most recent non-NaN price: 85.37000274658203 (date: 2026-07-31 00:00:00)
+2026-08-04 06:37:00,959 - INFO - API request: yf.download(batch=['TRUP', 'TSCO', 'TSEM', 'TSLA', 'TTMI', 'TUSK', 'TXNM', 'UDR', 'UIS', 'UI', 'ULTA', 'UMBF', 'UPBD', 'UPWK', 'URI', 'USPH', 'UUU', 'VATE', 'VBIX', 'VITL'], period='5y', interval='1d', group_by='ticker', progress=False, auto_adjust=False)
+2026-08-04 06:37:02,720 - ERROR - 
+1 Failed download:
+2026-08-04 06:37:02,720 - ERROR - ['VBIX']: YFPricesMissingError('possibly delisted; no price data found  (period=5y) (Yahoo error = "No data found, symbol may be delisted")')
+2026-08-04 06:37:02,772 - INFO - API request for batch ['TRUP', 'TSCO', 'TSEM', 'TSLA', 'TTMI', 'TUSK', 'TXNM', 'UDR', 'UIS', 'UI', 'ULTA', 'UMBF', 'UPBD', 'UPWK', 'URI', 'USPH', 'UUU', 'VATE', 'VBIX', 'VITL'] completed in 1.81 seconds.
+2026-08-04 06:37:02,787 - ERROR - Latest price for TRUP is NaN or None. Using most recent non-NaN price: 24.489999771118164 (date: 2026-07-31 00:00:00)
+2026-08-04 06:37:02,801 - ERROR - Latest price for TSCO is NaN or None. Using most recent non-NaN price: 30.770000457763672 (date: 2026-07-31 00:00:00)
+2026-08-04 06:37:02,815 - ERROR - Latest price for TSEM is NaN or None. Using most recent non-NaN price: 219.6699981689453 (date: 2026-07-31 00:00:00)
+2026-08-04 06:37:02,829 - ERROR - Latest price for TSLA is NaN or None. Using most recent non-NaN price: 311.2099914550781 (date: 2026-07-31 00:00:00)
+2026-08-04 06:37:02,843 - ERROR - Latest price for TTMI is NaN or None. Using most recent non-NaN price: 115.44000244140625 (date: 2026-07-31 00:00:00)
+2026-08-04 06:37:02,858 - ERROR - Latest price for TUSK is NaN or None. Using most recent non-NaN price: 2.6500000953674316 (date: 2026-07-31 00:00:00)
+2026-08-04 06:37:02,872 - ERROR - Latest price for TXNM is NaN or None. Using most recent non-NaN price: 57.91999816894531 (date: 2026-07-31 00:00:00)
+2026-08-04 06:37:02,886 - ERROR - Latest price for UDR is NaN or None. Using most recent non-NaN price: 38.15999984741211 (date: 2026-07-31 00:00:00)
+2026-08-04 06:37:02,900 - ERROR - Latest price for UIS is NaN or None. Using most recent non-NaN price: 2.869999885559082 (date: 2026-07-31 00:00:00)
+2026-08-04 06:37:02,914 - ERROR - Latest price for UI is NaN or None. Using most recent non-NaN price: 556.52001953125 (date: 2026-07-31 00:00:00)
+2026-08-04 06:37:02,928 - ERROR - Latest price for ULTA is NaN or None. Using most recent non-NaN price: 512.8300170898438 (date: 2026-07-31 00:00:00)
+2026-08-04 06:37:02,943 - ERROR - Latest price for UMBF is NaN or None. Using most recent non-NaN price: 145.72999572753906 (date: 2026-07-31 00:00:00)
+2026-08-04 06:37:02,957 - ERROR - Latest price for UPBD is NaN or None. Using most recent non-NaN price: 19.389999389648438 (date: 2026-07-31 00:00:00)
+2026-08-04 06:37:02,971 - ERROR - Latest price for UPWK is NaN or None. Using most recent non-NaN price: 9.15999984741211 (date: 2026-07-31 00:00:00)
+2026-08-04 06:37:02,985 - ERROR - Latest price for URI is NaN or None. Using most recent non-NaN price: 1079.260009765625 (date: 2026-07-31 00:00:00)
+2026-08-04 06:37:02,999 - ERROR - Latest price for USPH is NaN or None. Using most recent non-NaN price: 79.05999755859375 (date: 2026-07-31 00:00:00)
+2026-08-04 06:37:03,013 - ERROR - Latest price for UUU is NaN or None. Using most recent non-NaN price: 3.630000114440918 (date: 2026-07-31 00:00:00)
+2026-08-04 06:37:03,027 - ERROR - Latest price for VATE is NaN or None. Using most recent non-NaN price: 8.119999885559082 (date: 2026-07-31 00:00:00)
+2026-08-04 06:37:03,041 - ERROR - Latest price for VBIX is NaN or None. Using most recent non-NaN price: None (date: None)
+2026-08-04 06:37:03,055 - ERROR - Latest price for VITL is NaN or None. Using most recent non-NaN price: 12.729999542236328 (date: 2026-07-31 00:00:00)
+2026-08-04 06:37:08,055 - INFO - API request: yf.download(batch=['VLO', 'VMD', 'VNDA', 'VRSN', 'VSCO', 'VST', 'VTOL', 'VZ', 'WCN', 'WEN', 'WEX', 'WHLR', 'WH', 'WING', 'WLFC', 'WMT', 'WOR', 'WOW', 'WSBC', 'WS'], period='5y', interval='1d', group_by='ticker', progress=False, auto_adjust=False)
+2026-08-04 06:37:09,134 - ERROR - 
+2 Failed downloads:
+2026-08-04 06:37:09,134 - ERROR - ['WOW', 'VSCO']: YFPricesMissingError('possibly delisted; no price data found  (period=5y) (Yahoo error = "No data found, symbol may be delisted")')
+2026-08-04 06:37:09,161 - INFO - API request for batch ['VLO', 'VMD', 'VNDA', 'VRSN', 'VSCO', 'VST', 'VTOL', 'VZ', 'WCN', 'WEN', 'WEX', 'WHLR', 'WH', 'WING', 'WLFC', 'WMT', 'WOR', 'WOW', 'WSBC', 'WS'] completed in 1.11 seconds.
+2026-08-04 06:37:09,176 - ERROR - Latest price for VLO is NaN or None. Using most recent non-NaN price: 312.8999938964844 (date: 2026-07-31 00:00:00)
+2026-08-04 06:37:09,190 - ERROR - Latest price for VMD is NaN or None. Using most recent non-NaN price: 11.670000076293945 (date: 2026-07-31 00:00:00)
+2026-08-04 06:37:09,204 - ERROR - Latest price for VNDA is NaN or None. Using most recent non-NaN price: 5.099999904632568 (date: 2026-07-31 00:00:00)
+2026-08-04 06:37:09,219 - ERROR - Latest price for VRSN is NaN or None. Using most recent non-NaN price: 290.0199890136719 (date: 2026-07-31 00:00:00)
+2026-08-04 06:37:09,232 - ERROR - Latest price for VSCO is NaN or None. Using most recent non-NaN price: None (date: None)
+2026-08-04 06:37:09,246 - ERROR - Latest price for VST is NaN or None. Using most recent non-NaN price: 148.19000244140625 (date: 2026-07-31 00:00:00)
+2026-08-04 06:37:09,260 - ERROR - Latest price for VTOL is NaN or None. Using most recent non-NaN price: 45.31999969482422 (date: 2026-07-31 00:00:00)
+2026-08-04 06:37:09,302 - ERROR - Latest price for VZ is NaN or None. Using most recent non-NaN price: 46.810001373291016 (date: 2026-07-31 00:00:00)
+2026-08-04 06:37:09,316 - ERROR - Latest price for WCN is NaN or None. Using most recent non-NaN price: 167.3800048828125 (date: 2026-07-31 00:00:00)
+2026-08-04 06:37:09,331 - ERROR - Latest price for WEN is NaN or None. Using most recent non-NaN price: 7.360000133514404 (date: 2026-07-31 00:00:00)
+2026-08-04 06:37:09,345 - ERROR - Latest price for WEX is NaN or None. Using most recent non-NaN price: 186.9600067138672 (date: 2026-07-31 00:00:00)
+2026-08-04 06:37:09,359 - ERROR - Latest price for WHLR is NaN or None. Using most recent non-NaN price: 0.5910000205039978 (date: 2026-07-31 00:00:00)
+2026-08-04 06:37:09,373 - ERROR - Latest price for WH is NaN or None. Using most recent non-NaN price: 74.86000061035156 (date: 2026-07-31 00:00:00)
+2026-08-04 06:37:09,387 - ERROR - Latest price for WING is NaN or None. Using most recent non-NaN price: 129.49000549316406 (date: 2026-07-31 00:00:00)
+2026-08-04 06:37:09,402 - ERROR - Latest price for WLFC is NaN or None. Using most recent non-NaN price: 71.33000183105469 (date: 2026-07-31 00:00:00)
+2026-08-04 06:37:09,416 - ERROR - Latest price for WMT is NaN or None. Using most recent non-NaN price: 111.19999694824219 (date: 2026-07-31 00:00:00)
+2026-08-04 06:37:09,430 - ERROR - Latest price for WOR is NaN or None. Using most recent non-NaN price: 56.209999084472656 (date: 2026-07-31 00:00:00)
+2026-08-04 06:37:09,443 - ERROR - Latest price for WOW is NaN or None. Using most recent non-NaN price: None (date: None)
+2026-08-04 06:37:09,458 - ERROR - Latest price for WSBC is NaN or None. Using most recent non-NaN price: 41.380001068115234 (date: 2026-07-31 00:00:00)
+2026-08-04 06:37:09,471 - ERROR - Latest price for WS is NaN or None. Using most recent non-NaN price: 36.0099983215332 (date: 2026-07-31 00:00:00)
+2026-08-04 06:37:14,472 - INFO - API request: yf.download(batch=['WTRG', 'WTW', 'XHR', 'XIN', 'XNET', 'XPEL', 'YORW', 'YUMC', 'ZIMV', 'GTM'], period='5y', interval='1d', group_by='ticker', progress=False, auto_adjust=False)
+2026-08-04 06:37:15,613 - ERROR - 
+2 Failed downloads:
+2026-08-04 06:37:15,614 - ERROR - ['XIN', 'ZIMV']: YFPricesMissingError('possibly delisted; no price data found  (period=5y) (Yahoo error = "No data found, symbol may be delisted")')
+2026-08-04 06:37:15,626 - INFO - API request for batch ['WTRG', 'WTW', 'XHR', 'XIN', 'XNET', 'XPEL', 'YORW', 'YUMC', 'ZIMV', 'GTM'] completed in 1.15 seconds.
+2026-08-04 06:37:15,641 - ERROR - Latest price for WTRG is NaN or None. Using most recent non-NaN price: 39.849998474121094 (date: 2026-07-31 00:00:00)
+2026-08-04 06:37:15,656 - ERROR - Latest price for WTW is NaN or None. Using most recent non-NaN price: 335.9200134277344 (date: 2026-07-31 00:00:00)
+2026-08-04 06:37:15,670 - ERROR - Latest price for XHR is NaN or None. Using most recent non-NaN price: 20.579999923706055 (date: 2026-07-31 00:00:00)
+2026-08-04 06:37:15,683 - ERROR - Latest price for XIN is NaN or None. Using most recent non-NaN price: None (date: None)
+2026-08-04 06:37:15,697 - ERROR - Latest price for XNET is NaN or None. Using most recent non-NaN price: 5.340000152587891 (date: 2026-07-31 00:00:00)
+2026-08-04 06:37:15,712 - ERROR - Latest price for XPEL is NaN or None. Using most recent non-NaN price: 44.369998931884766 (date: 2026-07-31 00:00:00)
+2026-08-04 06:37:15,726 - ERROR - Latest price for YORW is NaN or None. Using most recent non-NaN price: 30.969999313354492 (date: 2026-07-31 00:00:00)
+2026-08-04 06:37:15,740 - ERROR - Latest price for YUMC is NaN or None. Using most recent non-NaN price: 48.18000030517578 (date: 2026-07-31 00:00:00)
+2026-08-04 06:37:15,753 - ERROR - Latest price for ZIMV is NaN or None. Using most recent non-NaN price: None (date: None)
+2026-08-04 06:37:15,768 - ERROR - Latest price for GTM is NaN or None. Using most recent non-NaN price: 3.299999952316284 (date: 2026-07-31 00:00:00)
+2026-08-04 06:37:20,792 - INFO - Summary JSON created: public/companies-data/companies.json
+2026-08-04 06:37:20,792 - INFO - Script completed in 133.73 seconds.
+2026-08-04 06:37:20,792 - INFO - API batches processed: 20
+2026-08-04 06:37:20,792 - INFO - Company JSON files created: 390
